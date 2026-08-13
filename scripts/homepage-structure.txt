@@ -1,0 +1,1852 @@
+body.home.wp-singular.page-template-default.page.page-id-6996.wp-custom-logo.wp-embed-responsive.wp-theme-hello-elementor.hello-elementor-default.elementor-default.elementor-kit-7.elementor-page.elementor-page-6996.e--ua-blink.e--ua-chrome.e--ua-webkit.complete
+  div.preloader-plus.complete
+    div.prog-bar-wrapper
+    div.preloader-content
+      img.preloader-custom-img src="https://cityedgedevelopments.com/cityedgedevelopmentswordpress/wp-content/uploads/2025/09/logo.svg"
+  a.skip-link.screen-reader-text
+    "Skip to content"
+  div.elementor.elementor-38.elementor-location-header
+    div.has_eae_slider.elementor-element.e-flex.e-con-boxed.e-con.e-parent.e-lazyloaded
+      div.e-con-inner
+        div.has_eae_slider.elementor-element.e-con-full.e-flex.e-con.e-child
+          div.elementor-element.elementor-widget.elementor-widget-theme-site-logo.elementor-widget-image
+            div
+              a
+                img.attachment-full.size-full.wp-image-5483 src="https://cityedgedevelopments.com/cityedgedevelopmentswordpress/wp-content/uploads/2025/05/logo-1.svg"
+        div.has_eae_slider.elementor-element.e-con-full.e-flex.e-con.e-child
+          div.elementor-element.elementor-nav-menu__align-center.elementor-nav-menu--dropdown-none.elementor-hidden-desktop.elementor-hidden-tablet.elementor-widget.elementor-widget-nav-menu
+            div
+              nav.elementor-nav-menu--main.elementor-nav-menu__container.elementor-nav-menu--layout-horizontal.e--pointer-underline.e--animation-fade
+                ul#menu-1-ac7be3c.elementor-nav-menu
+                  li.menu-item.menu-item-type-post_type.menu-item-object-page.menu-item-67
+                    a.elementor-item
+                      "Visit us"
+                  li.lang-item.lang-item-173.lang-item-en.current-lang.lang-item-first.menu-item.menu-item-type-custom.menu-item-object-custom.current_page_item.menu-item-home.menu-item-7961-en
+                    a.elementor-item
+                      "EN"
+                  li.lang-item.lang-item-176.lang-item-ar.menu-item.menu-item-type-custom.menu-item-object-custom.menu-item-7961-ar
+                    a.elementor-item
+                      "AR"
+              nav.elementor-nav-menu--dropdown.elementor-nav-menu__container
+                ul#menu-2-ac7be3c.elementor-nav-menu
+                  li.menu-item.menu-item-type-post_type.menu-item-object-page.menu-item-67
+                    a.elementor-item
+                      "Visit us"
+                  li.lang-item.lang-item-173.lang-item-en.current-lang.lang-item-first.menu-item.menu-item-type-custom.menu-item-object-custom.current_page_item.menu-item-home.menu-item-7961-en
+                    a.elementor-item
+                      "EN"
+                  li.lang-item.lang-item-176.lang-item-ar.menu-item.menu-item-type-custom.menu-item-object-custom.menu-item-7961-ar
+                    a.elementor-item
+                      "AR"
+          div.elementor-element.elementor-nav-menu__align-center.elementor-nav-menu--stretch.elementor-nav-menu--dropdown-tablet.elementor-nav-menu__text-align-aside.elementor-nav-menu--toggle.elementor-nav-menu--burger.elementor-widget.elementor-widget-nav-menu
+            div
+              nav.elementor-nav-menu--main.elementor-nav-menu__container.elementor-nav-menu--layout-horizontal.e--pointer-underline.e--animation-fade
+                ul#menu-1-75a7462.elementor-nav-menu
+                  li.menu-item.menu-item-type-post_type.menu-item-object-page.menu-item-home.current-menu-item.page_item.page-item-6996.current_page_item.menu-item-7064
+                    a.elementor-item.elementor-item-active
+                      "Home"
+                  li.menu-item.menu-item-type-post_type.menu-item-object-page.menu-item-25
+                    a.elementor-item
+                      "About us"
+                  li.menu-item.menu-item-type-custom.menu-item-object-custom.menu-item-has-children.menu-item-30
+                    a#sm-1786294048174213-1.elementor-item.elementor-item-anchor.has-submenu
+                      "Destinations"
+                    ul#sm-1786294048174213-2.sub-menu.elementor-nav-menu--dropdown
+                      li.menu-item.menu-item-type-custom.menu-item-object-custom.menu-item-has-children.menu-item-5435
+                        a#sm-1786294048174213-3.elementor-sub-item.elementor-item-anchor.has-submenu
+                          "CED Developments"
+                        ul#sm-1786294048174213-4.sub-menu.elementor-nav-menu--dropdown
+                          li.menu-item.menu-item-type-taxonomy.menu-item-object-location.menu-item-2783
+                            a.elementor-sub-item
+                              "New Cairo City"
+                          li.menu-item.menu-item-type-taxonomy.menu-item-object-location.menu-item-2786
+                            a.elementor-sub-item
+                              "Sheikh Zayed City"
+                      li.menu-item.menu-item-type-custom.menu-item-object-custom.menu-item-has-children.menu-item-5436
+                        a#sm-1786294048174213-5.elementor-sub-item.elementor-item-anchor.has-submenu
+                          "CED Projects"
+                        ul#sm-1786294048174213-6.sub-menu.elementor-nav-menu--dropdown
+                          li.menu-item.menu-item-type-taxonomy.menu-item-object-location.menu-item-2782
+                            a.elementor-sub-item
+                              "New Alamein City"
+                          li.menu-item.menu-item-type-taxonomy.menu-item-object-location.menu-item-2784
+                            a.elementor-sub-item
+                              "New Capital City"
+                          li.menu-item.menu-item-type-taxonomy.menu-item-object-location.menu-item-2785
+                            a.elementor-sub-item
+                              "New Mansoura City"
+                          li.menu-item.menu-item-type-taxonomy.menu-item-object-location.menu-item-2781
+                            a.elementor-sub-item
+                              "Maspero Triangle"
+                  li.menu-item.menu-item-type-post_type.menu-item-object-page.menu-item-23
+                    a.elementor-item
+                      "Hospitality"
+                  li.menu-item.menu-item-type-post_type.menu-item-object-page.menu-item-24
+                    a.elementor-item
+                      "Media Center"
+                  li.vrcon.menu-item.menu-item-type-post_type.menu-item-object-page.menu-item-22
+                    a.elementor-item
+                      "Virtual Tour"
+                  li.contact-us-en-menu-item.menu-item.menu-item-type-post_type.menu-item-object-page.menu-item-36
+                    a.elementor-item
+                      "Visit us"
+                  li.menu-item.menu-item-type-custom.menu-item-object-custom.menu-item-7866
+                    a.elementor-item
+                      "Careers"
+                  li.lang-item.lang-item-173.lang-item-en.current-lang.lang-item-first.menu-item.menu-item-type-custom.menu-item-object-custom.current_page_item.menu-item-home.menu-item-7962-en
+                    a.elementor-item
+                      "EN"
+                  li.lang-item.lang-item-176.lang-item-ar.menu-item.menu-item-type-custom.menu-item-object-custom.menu-item-7962-ar
+                    a.elementor-item
+                      "AR"
+              nav.elementor-nav-menu--dropdown.elementor-nav-menu__container
+                ul#menu-2-75a7462.elementor-nav-menu
+                  li.menu-item.menu-item-type-post_type.menu-item-object-page.menu-item-home.current-menu-item.page_item.page-item-6996.current_page_item.menu-item-7064
+                    a.elementor-item.elementor-item-active
+                      "Home"
+                  li.menu-item.menu-item-type-post_type.menu-item-object-page.menu-item-25
+                    a.elementor-item
+                      "About us"
+                  li.menu-item.menu-item-type-custom.menu-item-object-custom.menu-item-has-children.menu-item-30
+                    a#sm-17862940481829106-1.elementor-item.elementor-item-anchor.has-submenu
+                      "Destinations"
+                    ul#sm-17862940481829106-2.sub-menu.elementor-nav-menu--dropdown
+                      li.menu-item.menu-item-type-custom.menu-item-object-custom.menu-item-has-children.menu-item-5435
+                        a#sm-17862940481829106-3.elementor-sub-item.elementor-item-anchor.has-submenu
+                          "CED Developments"
+                        ul#sm-17862940481829106-4.sub-menu.elementor-nav-menu--dropdown
+                          li.menu-item.menu-item-type-taxonomy.menu-item-object-location.menu-item-2783
+                            a.elementor-sub-item
+                              "New Cairo City"
+                          li.menu-item.menu-item-type-taxonomy.menu-item-object-location.menu-item-2786
+                            a.elementor-sub-item
+                              "Sheikh Zayed City"
+                      li.menu-item.menu-item-type-custom.menu-item-object-custom.menu-item-has-children.menu-item-5436
+                        a#sm-17862940481829106-5.elementor-sub-item.elementor-item-anchor.has-submenu
+                          "CED Projects"
+                        ul#sm-17862940481829106-6.sub-menu.elementor-nav-menu--dropdown
+                          li.menu-item.menu-item-type-taxonomy.menu-item-object-location.menu-item-2782
+                            a.elementor-sub-item
+                              "New Alamein City"
+                          li.menu-item.menu-item-type-taxonomy.menu-item-object-location.menu-item-2784
+                            a.elementor-sub-item
+                              "New Capital City"
+                          li.menu-item.menu-item-type-taxonomy.menu-item-object-location.menu-item-2785
+                            a.elementor-sub-item
+                              "New Mansoura City"
+                          li.menu-item.menu-item-type-taxonomy.menu-item-object-location.menu-item-2781
+                            a.elementor-sub-item
+                              "Maspero Triangle"
+                  li.menu-item.menu-item-type-post_type.menu-item-object-page.menu-item-23
+                    a.elementor-item
+                      "Hospitality"
+                  li.menu-item.menu-item-type-post_type.menu-item-object-page.menu-item-24
+                    a.elementor-item
+                      "Media Center"
+                  li.vrcon.menu-item.menu-item-type-post_type.menu-item-object-page.menu-item-22
+                    a.elementor-item
+                      "Virtual Tour"
+                  li.contact-us-en-menu-item.menu-item.menu-item-type-post_type.menu-item-object-page.menu-item-36
+                    a.elementor-item
+                      "Visit us"
+                  li.menu-item.menu-item-type-custom.menu-item-object-custom.menu-item-7866
+                    a.elementor-item
+                      "Careers"
+                  li.lang-item.lang-item-173.lang-item-en.current-lang.lang-item-first.menu-item.menu-item-type-custom.menu-item-object-custom.current_page_item.menu-item-home.menu-item-7962-en
+                    a.elementor-item
+                      "EN"
+                  li.lang-item.lang-item-176.lang-item-ar.menu-item.menu-item-type-custom.menu-item-object-custom.menu-item-7962-ar
+                    a.elementor-item
+                      "AR"
+        div.has_eae_slider.elementor-element.e-con-full.elementor-hidden-mobile.elementor-hidden-tablet.e-flex.e-con.e-child
+          div.elementor-element.elementor-nav-menu__align-center.elementor-nav-menu--stretch.elementor-nav-menu--dropdown-tablet.elementor-nav-menu__text-align-aside.elementor-nav-menu--toggle.elementor-nav-menu--burger.elementor-widget.elementor-widget-nav-menu
+            div
+              nav.elementor-nav-menu--main.elementor-nav-menu__container.elementor-nav-menu--layout-horizontal.e--pointer-underline.e--animation-fade
+                ul#menu-1-b89dd17.elementor-nav-menu
+                  li.menu-item.menu-item-type-post_type.menu-item-object-page.menu-item-67
+                    a.elementor-item
+                      "Visit us"
+                  li.lang-item.lang-item-173.lang-item-en.current-lang.lang-item-first.menu-item.menu-item-type-custom.menu-item-object-custom.current_page_item.menu-item-home.menu-item-7961-en
+                    a.elementor-item
+                      "EN"
+                  li.lang-item.lang-item-176.lang-item-ar.menu-item.menu-item-type-custom.menu-item-object-custom.menu-item-7961-ar
+                    a.elementor-item
+                      "AR"
+              nav.elementor-nav-menu--dropdown.elementor-nav-menu__container
+                ul#menu-2-b89dd17.elementor-nav-menu
+                  li.menu-item.menu-item-type-post_type.menu-item-object-page.menu-item-67
+                    a.elementor-item
+                      "Visit us"
+                  li.lang-item.lang-item-173.lang-item-en.current-lang.lang-item-first.menu-item.menu-item-type-custom.menu-item-object-custom.current_page_item.menu-item-home.menu-item-7961-en
+                    a.elementor-item
+                      "EN"
+                  li.lang-item.lang-item-176.lang-item-ar.menu-item.menu-item-type-custom.menu-item-object-custom.menu-item-7961-ar
+                    a.elementor-item
+                      "AR"
+    div.has_eae_slider.elementor-element.e-con-full.con-right.e-flex.e-con.e-parent.e-lazyloaded
+      a.has_eae_slider.elementor-element.e-con-full.mega-menu-trigger.e-flex.e-con.e-child
+        div.elementor-element.elementor-view-default.elementor-widget.elementor-widget-icon
+          div
+            div.elementor-icon-wrapper
+        div.elementor-element.small.elementor-widget.elementor-widget-heading
+          div
+            h2.elementor-heading-title.elementor-size-default
+              "Contact us"
+    div.has_eae_slider.elementor-element.e-flex.e-con-boxed.e-con.e-parent.e-lazyloaded
+      div.e-con-inner
+        div.elementor-element.elementor-widget.elementor-widget-html
+          div
+  main#content.site-main.post-6996.page.type-page.status-publish.hentry
+    div.page-content
+      div.elementor.elementor-6996
+        div.has_eae_slider.elementor-element.e-con-full.e-flex.e-con.e-parent.e-lazyloaded
+          div.has_eae_slider.elementor-element.e-con-full.e-flex.e-con.e-child
+            div.has_eae_slider.elementor-element.e-con-full.e-flex.e-con.e-child
+              div.elementor-element.elementor-pagination-type-fraction.elementor-pagination-position-inside.elementor-arrows-position-inside.elementor-widget.elementor-widget-n-carousel.e-widget-swiper
+                div
+                  div.e-n-carousel.swiper.swiper-initialized.swiper-horizontal.swiper-pointer-events
+                    div#swiper-wrapper-d2b95e388a6aea7c.swiper-wrapper
+                      div.swiper-slide.swiper-slide-duplicate
+                        div.has_eae_slider.elementor-element.e-con-full.e-flex.e-con.e-child
+                      div.swiper-slide.swiper-slide-prev
+                        div.has_eae_slider.elementor-element.e-con-full.e-flex.e-con.e-child
+                      div.swiper-slide.swiper-slide-active
+                        div.has_eae_slider.elementor-element.e-con-full.e-flex.e-con.e-child
+                      div.swiper-slide.swiper-slide-next
+                        div.has_eae_slider.elementor-element.e-con-full.e-flex.e-con.e-child
+                      div.swiper-slide
+                        div.has_eae_slider.elementor-element.e-con-full.e-flex.e-con.e-child
+                      div.swiper-slide
+                        div.has_eae_slider.elementor-element.e-con-full.e-flex.e-con.e-child
+                      div.swiper-slide
+                        div.has_eae_slider.elementor-element.e-con-full.e-flex.e-con.e-child
+                      div.swiper-slide
+                        div.has_eae_slider.elementor-element.e-con-full.e-flex.e-con.e-child
+                      div.swiper-slide
+                        div.has_eae_slider.elementor-element.e-con-full.e-flex.e-con.e-child
+                      div.swiper-slide
+                        div.has_eae_slider.elementor-element.e-con-full.e-flex.e-con.e-child
+                      div.swiper-slide.swiper-slide-duplicate.swiper-slide-duplicate-prev
+                        div.has_eae_slider.elementor-element.e-con-full.e-flex.e-con.e-child
+                  div.swiper-pagination.swiper-pagination-fraction.swiper-pagination-horizontal
+                    span.swiper-pagination-current
+                      "2"
+                    "/"
+                    span.swiper-pagination-total
+                      "9"
+              div.has_eae_slider.elementor-element.e-con-full.above-hero.e-flex.e-con.e-child
+                div.has_eae_slider.elementor-element.e-con-full.e-flex.e-con.e-child
+                  div.elementor-element.elementor-widget__width-initial.elementor-widget.elementor-widget-heading
+                    div
+                      h2.elementor-heading-title.elementor-size-default
+                        "We are City Edge"
+                  div.elementor-element.elementor-widget-divider--view-line.elementor-widget.elementor-widget-divider
+                    div
+                      div.elementor-divider
+                div.elementor-element.xlarge.elementor-widget.elementor-widget-heading
+                  div
+                    h2.elementor-heading-title.elementor-size-default
+                      "Shaping Egypt's Future"
+                      "through Innovative"
+                      "Real Estate Development"
+          div.has_eae_slider.elementor-element.e-con-full.e-flex.e-con.e-child
+            div.has_eae_slider.elementor-element.e-con-full.e-flex.e-con.e-child
+              div.elementor-element.elementor-widget__width-initial.elementor-widget-divider--view-line.elementor-widget.elementor-widget-divider
+                div
+                  div.elementor-divider
+              div.elementor-element.elementor-widget__width-initial.elementor-widget.elementor-widget-heading
+                div
+                  h2.elementor-heading-title.elementor-size-default
+                    "our numbers"
+            div.has_eae_slider.elementor-element.e-flex.e-con-boxed.e-con.e-child
+              div.e-con-inner
+                div.has_eae_slider.elementor-element.e-con-full.e-flex.e-con.e-child
+                  div.elementor-element.elementor-widget.elementor-widget-counter
+                    div
+                      div.elementor-counter
+                        div.elementor-counter-title
+                          "Destinations"
+                        div.elementor-counter-number-wrapper
+                          span.elementor-counter-number
+                            "6"
+                  div.elementor-element.elementor-widget.elementor-widget-counter
+                    div
+                      div.elementor-counter
+                        div.elementor-counter-title
+                          "Homeowners"
+                        div.elementor-counter-number-wrapper
+                          span.elementor-counter-number
+                            "17,937"
+                  div.elementor-element.elementor-widget.elementor-widget-counter
+                    div
+                      div.elementor-counter
+                        div.elementor-counter-title
+                          "Area Developed"
+                        div.elementor-counter-number-wrapper
+                          span.elementor-counter-number
+                            "15"
+                          span.elementor-counter-number-suffix
+                            "M"
+                            sub
+                              "Sqm"
+                div.has_eae_slider.elementor-element.e-con-full.e-flex.e-con.e-child
+                  div.elementor-element.elementor-widget.elementor-widget-counter
+                    div
+                      div.elementor-counter
+                        div.elementor-counter-title
+                          "Projects"
+                        div.elementor-counter-number-wrapper
+                          span.elementor-counter-number
+                            "30"
+                          span.elementor-counter-number-suffix
+                            "+"
+                  div.elementor-element.elementor-widget.elementor-widget-counter
+                    div
+                      div.elementor-counter
+                        div.elementor-counter-title
+                          "Units Delivered"
+                        div.elementor-counter-number-wrapper
+                          span.elementor-counter-number
+                            "12,752"
+                  div.elementor-element.elementor-widget.elementor-widget-counter
+                    div
+                      div.elementor-counter
+                        div.elementor-counter-title
+                          "Employees"
+                        div.elementor-counter-number-wrapper
+                          span.elementor-counter-number
+                            "500"
+                          span.elementor-counter-number-suffix
+                            "+"
+            div.has_eae_slider.elementor-element.e-con-full.elementor-hidden-tablet.elementor-hidden-mobile.e-flex.e-con.e-child
+              div.elementor-element.e-grid-align-left.elementor-grid-1.e-grid-align-mobile-left.elementor-shape-rounded.elementor-widget.elementor-widget-social-icons
+                div
+                  div.elementor-social-icons-wrapper.elementor-grid
+                    span.elementor-grid-item
+                      a.elementor-icon.elementor-social-icon.elementor-social-icon-facebook.elementor-repeater-item-048a091
+                        span.elementor-screen-only
+                          "Facebook"
+                    span.elementor-grid-item
+                      a.elementor-icon.elementor-social-icon.elementor-social-icon-instagram.elementor-repeater-item-75dc674
+                        span.elementor-screen-only
+                          "Instagram"
+                    span.elementor-grid-item
+                      a.elementor-icon.elementor-social-icon.elementor-social-icon-linkedin.elementor-repeater-item-522a710
+                        span.elementor-screen-only
+                          "Linkedin"
+                    span.elementor-grid-item
+                      a.elementor-icon.elementor-social-icon.elementor-social-icon-youtube.elementor-repeater-item-daf95f3
+                        span.elementor-screen-only
+                          "Youtube"
+        div.has_eae_slider.elementor-element.e-flex.e-con-boxed.e-con.e-parent.e-lazyloaded
+          div.e-con-inner
+            div.elementor-element.elementor-widget.elementor-widget-spacer
+              div
+                div.elementor-spacer
+        div.has_eae_slider.elementor-element.e-flex.e-con-boxed.e-con.e-parent.e-lazyloaded.animated.fadeInUp
+          div.e-con-inner
+            div.has_eae_slider.elementor-element.e-con-full.e-flex.e-con.e-child
+              div.elementor-element.home-map-f.elementor-widget.elementor-widget-shortcode
+                div
+                  div.elementor-shortcode
+                    div
+                      div#image-map-pro-6c1d3f3b-8242-4be0-8086-0f910a42a55c
+                        div.imp-container.imp-ui-light
+                          div.imp-ui-wrap
+                            div.imp-ui
+                              div.imp-ui-top-right
+                            div.imp-canvas-wrap
+                              div.imp-canvas
+                                div.imp-translate
+                                  div.imp-scale
+                                    img.imp-image src="https://cityedgedevelopments.com/cityedgedevelopmentswordpress/wp-content/uploads/2025/08/full-copy.webp"
+                                    div.imp-objects
+                                    div#imp-image-backgrounds-6c1d3f3b-8242-4be0-8086-0f910a42a55c.imp-image-backgrounds
+            div.has_eae_slider.elementor-element.e-con-full.e-flex.e-con.e-child
+              div.elementor-element.elementor-widget.elementor-widget-heading
+                div
+                  h2.elementor-heading-title.elementor-size-default
+                    "We are in"
+              div.elementor-element.medium.elementor-widget.elementor-widget-heading
+                div
+                  h2.elementor-heading-title.elementor-size-default
+                    "6 Key Destinations"
+              div.elementor-element.elementor-widget.elementor-widget-heading
+                div
+                  h2.elementor-heading-title.elementor-size-default
+                    "City Edge transforms your visions"
+                    span
+                      "into vibrant realities."
+                    "We craft spaces where your ideals and aspirations "
+        div.has_eae_slider.elementor-element.e-con-full.e-flex.e-con.e-parent.e-lazyloaded
+          div.elementor-element.elementor-pagination-type-bullets.elementor-pagination-position-outside.elementor-widget.elementor-widget-n-carousel.e-widget-swiper
+            div
+              div.e-n-carousel.swiper.swiper-initialized.swiper-horizontal.swiper-pointer-events.swiper-rtl.swiper-backface-hidden
+                div#swiper-wrapper-4c5f71b8bc97e7b10.swiper-wrapper
+                  div.swiper-slide.swiper-slide-prev
+                    div.has_eae_slider.elementor-element.e-flex.e-con-boxed.e-con.e-child
+                      div.e-con-inner
+                        div.elementor-element.elementor-widget.elementor-widget-heading
+                          div
+                            h2.elementor-heading-title.elementor-size-default
+                              a
+                                "Sheikh Zayed City"
+                  div.swiper-slide.swiper-slide-active
+                    div.has_eae_slider.elementor-element.e-flex.e-con-boxed.e-con.e-child
+                      div.e-con-inner
+                        div.elementor-element.elementor-widget.elementor-widget-heading
+                          div
+                            h2.elementor-heading-title.elementor-size-default
+                              a
+                                "New Capital City"
+                  div.swiper-slide.swiper-slide-next
+                    div.has_eae_slider.elementor-element.e-flex.e-con-boxed.e-con.e-child
+                      div.e-con-inner
+                        div.elementor-element.elementor-widget.elementor-widget-heading
+                          div
+                            h2.elementor-heading-title.elementor-size-default
+                              a
+                                "New Alamein City"
+                  div.swiper-slide
+                    div.has_eae_slider.elementor-element.e-flex.e-con-boxed.e-con.e-child
+                      div.e-con-inner
+                        div.elementor-element.elementor-widget.elementor-widget-heading
+                          div
+                            h2.elementor-heading-title.elementor-size-default
+                              a
+                                "New Mansoura City"
+                  div.swiper-slide
+                    div.has_eae_slider.elementor-element.e-flex.e-con-boxed.e-con.e-child
+                      div.e-con-inner
+                        div.elementor-element.elementor-widget.elementor-widget-heading
+                          div
+                            h2.elementor-heading-title.elementor-size-default
+                              a
+                                "Maspero Triangle"
+                  div.swiper-slide
+                    div.has_eae_slider.elementor-element.e-flex.e-con-boxed.e-con.e-child
+                      div.e-con-inner
+                        div.elementor-element.elementor-widget.elementor-widget-heading
+                          div
+                            h2.elementor-heading-title.elementor-size-default
+                              a
+                                "New Cairo City"
+              div.swiper-pagination.swiper-pagination-clickable.swiper-pagination-bullets.swiper-pagination-horizontal
+        div.has_eae_slider.elementor-element.e-flex.e-con-boxed.e-con.e-parent.e-lazyloaded
+          div.e-con-inner
+            div.elementor-element.elementor-widget.elementor-widget-spacer
+              div
+                div.elementor-spacer
+        div.has_eae_slider.elementor-element.e-flex.e-con-boxed.e-con.e-parent.e-lazyloaded.animated.fadeInUp
+          div.e-con-inner
+            div.elementor-element.elementor-widget.elementor-widget-heading
+              div
+                h2.elementor-heading-title.elementor-size-default
+                  "Explore our diverse"
+                  "portfolio of exceptional"
+                  "Projects"
+            div.elementor-element.elementor-widget.elementor-widget-spacer
+              div
+                div.elementor-spacer
+        div.has_eae_slider.elementor-element.e-flex.e-con-boxed.e-con.e-parent.e-lazyloaded
+          div.e-con-inner
+            div.elementor-element.elementor-widget.elementor-widget-shortcode
+              div
+                div.elementor-shortcode
+                  form#adv-project-filters-form.adv-project-filters-container
+                    div.filter-group
+                      select#filter-location
+                        option
+                          "Location"
+                        option
+                          "New Cairo City"
+                        option
+                          "Sheikh Zayed City"
+                        option
+                          "New Alamein City"
+                        option
+                          "New Capital City"
+                        option
+                          "New Mansoura City"
+                        option
+                          "Maspero Triangle"
+                    div.filter-group
+                      select#filter-parent-type
+                        option
+                          "Project Type"
+                        option
+                          "Administrative"
+                        option
+                          "Commercial"
+                        option
+                          "Residential"
+                    div.filter-group
+                      select#filter-child-type
+                        option
+                          "Types"
+            div#adv-project-carousel-wrapper.elementor-element.elementor-arrows-position-inside.elementor-widget.elementor-widget-loop-carousel.e-widget-swiper
+              div
+                div.swiper.elementor-loop-container.elementor-grid.swiper-initialized.swiper-horizontal.swiper-pointer-events
+                  div#swiper-wrapper-4c56c1f57feed26b.swiper-wrapper
+                    div.elementor.elementor-743.swiper-slide.e-loop-item.e-loop-item-8065.post-8065.project.type-project.status-publish.has-post-thumbnail.hentry.amenities-central-park.amenities-commercial-and-retail-centers-en.amenities-pedestrians-walkways-en.amenities-premium-medical-clinics.amenities-sports-club-en.amenities-universities-schools-en.location-new-capital-city-en.project-type-apartments-en.swiper-slide-prev
+                      div.has_eae_slider.elementor-element.e-con-full.project-loop-item-en.e-flex.e-con.e-parent.e-lazyloaded
+                        div.e-lazyloaded.has_eae_slider.elementor-element.e-con-full.e-flex.e-con.e-child
+                          div.has_eae_slider.elementor-element.e-con-full.see-project-hover.e-flex.e-con.e-child
+                            div.elementor-element.elementor-widget.elementor-widget-button
+                              div
+                                div.elementor-button-wrapper
+                                  a.elementor-button.elementor-button-link.elementor-size-sm
+                                    span.elementor-button-content-wrapper
+                                      span.elementor-button-text
+                                        "See Project Details"
+                        div.has_eae_slider.elementor-element.e-con-full.e-flex.e-con.e-child
+                          div.has_eae_slider.elementor-element.e-con-full.e-flex.e-con.e-child
+                            div.elementor-element.elementor-widget.elementor-widget-heading
+                              div
+                                h2.elementor-heading-title.elementor-size-default
+                                  a
+                                    "Riseville"
+                          div.elementor-element.elementor-widget.elementor-widget-shortcode
+                            div
+                              div.elementor-shortcode
+                                p.project-location-home
+                                  img.location-image-home src="https://mediumorchid-hyena-502932.hostingersite.com/wp-content/uploads/2025/09/icons8-location-100.png"
+                                  a
+                                    "New Capital City"
+                    div.elementor.elementor-743.swiper-slide.e-loop-item.e-loop-item-7926.post-7926.project.type-project.status-publish.has-post-thumbnail.hentry.amenities-bike-jogging-tracks-en.amenities-clubhouse-en.amenities-elevators-en.amenities-gym-en.amenities-kids-area-en.amenities-parking-en.amenities-swimming-pools-en.location-new-cairo-city-en.project-type-apartments-en.project-type-duplexes-en.project-type-loft.project-type-mansio.project-type-residential-en.swiper-slide-active
+                      div.has_eae_slider.elementor-element.e-con-full.project-loop-item-en.e-flex.e-con.e-parent.e-lazyloaded
+                        div.e-lazyloaded.has_eae_slider.elementor-element.e-con-full.e-flex.e-con.e-child
+                          div.has_eae_slider.elementor-element.e-con-full.see-project-hover.e-flex.e-con.e-child
+                            div.elementor-element.elementor-widget.elementor-widget-button
+                              div
+                                div.elementor-button-wrapper
+                                  a.elementor-button.elementor-button-link.elementor-size-sm
+                                    span.elementor-button-content-wrapper
+                                      span.elementor-button-text
+                                        "See Project Details"
+                        div.has_eae_slider.elementor-element.e-con-full.e-flex.e-con.e-child
+                          div.has_eae_slider.elementor-element.e-con-full.e-flex.e-con.e-child
+                            div.elementor-element.elementor-widget.elementor-widget-heading
+                              div
+                                h2.elementor-heading-title.elementor-size-default
+                                  a
+                                    "Lush Valley"
+                          div.elementor-element.elementor-widget.elementor-widget-shortcode
+                            div
+                              div.elementor-shortcode
+                                p.project-location-home
+                                  img.location-image-home src="https://mediumorchid-hyena-502932.hostingersite.com/wp-content/uploads/2025/09/icons8-location-100.png"
+                                  a
+                                    "New Cairo City"
+                    div.elementor.elementor-743.swiper-slide.e-loop-item.e-loop-item-7402.post-7402.project.type-project.status-publish.has-post-thumbnail.hentry.amenities-business-offices.amenities-cafes-restaurants-en.amenities-elegant-entrances-and-lobbies.amenities-fiber-to-the-home-connection-ftth-en.amenities-irefighting-and-security-systems-en.amenities-lush-greenery-and-scenic-views.amenities-offices-and-workspaces.amenities-premium-medical-clinics.amenities-triple-play-en.amenities-walking-promenade.location-new-capital-city-en.project-type-administrative-en.project-type-apartments-en.project-type-clinics-en.project-type-commercial-en.project-type-duplexes-en.project-type-offices-en.project-type-residential-en.project-type-retail-en.swiper-slide-next
+                      div.has_eae_slider.elementor-element.e-con-full.project-loop-item-en.e-flex.e-con.e-parent.e-lazyloaded
+                        div.e-lazyloaded.has_eae_slider.elementor-element.e-con-full.e-flex.e-con.e-child
+                          div.has_eae_slider.elementor-element.e-con-full.see-project-hover.e-flex.e-con.e-child
+                            div.elementor-element.elementor-widget.elementor-widget-button
+                              div
+                                div.elementor-button-wrapper
+                                  a.elementor-button.elementor-button-link.elementor-size-sm
+                                    span.elementor-button-content-wrapper
+                                      span.elementor-button-text
+                                        "See Project Details"
+                        div.has_eae_slider.elementor-element.e-con-full.e-flex.e-con.e-child
+                          div.has_eae_slider.elementor-element.e-con-full.e-flex.e-con.e-child
+                            div.elementor-element.elementor-widget.elementor-widget-heading
+                              div
+                                h2.elementor-heading-title.elementor-size-default
+                                  a
+                                    "Mamsha Central"
+                          div.elementor-element.elementor-widget.elementor-widget-shortcode
+                            div
+                              div.elementor-shortcode
+                                p.project-location-home
+                                  img.location-image-home src="https://mediumorchid-hyena-502932.hostingersite.com/wp-content/uploads/2025/09/icons8-location-100.png"
+                                  a
+                                    "New Capital City"
+                    div.elementor.elementor-743.swiper-slide.e-loop-item.e-loop-item-7261.post-7261.project.type-project.status-publish.has-post-thumbnail.hentry.amenities-green-landscapes-en.amenities-sea-views-en.amenities-universities-schools-en.location-new-mansoura-city-en.project-type-residential-en.project-type-townhouses-en.project-type-twin-villas-en.project-type-villas-en
+                      div.has_eae_slider.elementor-element.e-con-full.project-loop-item-en.e-flex.e-con.e-parent
+                        div.e-lazyloaded.has_eae_slider.elementor-element.e-con-full.e-flex.e-con.e-child
+                          div.has_eae_slider.elementor-element.e-con-full.see-project-hover.e-flex.e-con.e-child
+                            div.elementor-element.elementor-widget.elementor-widget-button
+                              div
+                                div.elementor-button-wrapper
+                                  a.elementor-button.elementor-button-link.elementor-size-sm
+                                    span.elementor-button-content-wrapper
+                                      span.elementor-button-text
+                                        "See Project Details"
+                        div.has_eae_slider.elementor-element.e-con-full.e-flex.e-con.e-child
+                          div.has_eae_slider.elementor-element.e-con-full.e-flex.e-con.e-child
+                            div.elementor-element.elementor-widget.elementor-widget-heading
+                              div
+                                h2.elementor-heading-title.elementor-size-default
+                                  a
+                                    "Marjan"
+                          div.elementor-element.elementor-widget.elementor-widget-shortcode
+                            div
+                              div.elementor-shortcode
+                                p.project-location-home
+                                  img.location-image-home src="https://mediumorchid-hyena-502932.hostingersite.com/wp-content/uploads/2025/09/icons8-location-100.png"
+                                  a
+                                    "New Mansoura City"
+                    div.elementor.elementor-743.swiper-slide.e-loop-item.e-loop-item-5887.post-5887.project.type-project.status-publish.has-post-thumbnail.hentry.amenities-8-elevators-35s-waiting-time-en.amenities-access-for-hotel-facilities-en.amenities-central-chiller-system-en.amenities-cooperate-rate-by-dtbh-en.amenities-drop-off-en.amenities-facility-management-en.amenities-fiber-optic-cables-en.amenities-inclusivity-en.amenities-indoor-meeting-lounge-en.amenities-prayer-rooms-en.amenities-private-parking-en.amenities-public-restrooms-en.amenities-security-cctv-en.amenities-service-elevator-en.location-maspero-triangle-en.project-type-administrative-en.project-type-clinics-en.project-type-commercial-en.project-type-offices-en.project-type-retail-en
+                      div.has_eae_slider.elementor-element.e-con-full.project-loop-item-en.e-flex.e-con.e-parent
+                        div.e-lazyloaded.has_eae_slider.elementor-element.e-con-full.e-flex.e-con.e-child
+                          div.has_eae_slider.elementor-element.e-con-full.see-project-hover.e-flex.e-con.e-child
+                            div.elementor-element.elementor-widget.elementor-widget-button
+                              div
+                                div.elementor-button-wrapper
+                                  a.elementor-button.elementor-button-link.elementor-size-sm
+                                    span.elementor-button-content-wrapper
+                                      span.elementor-button-text
+                                        "See Project Details"
+                        div.has_eae_slider.elementor-element.e-con-full.e-flex.e-con.e-child
+                          div.has_eae_slider.elementor-element.e-con-full.e-flex.e-con.e-child
+                            div.elementor-element.elementor-widget.elementor-widget-heading
+                              div
+                                h2.elementor-heading-title.elementor-size-default
+                                  a
+                                    "Maspero Metropolis"
+                          div.elementor-element.elementor-widget.elementor-widget-shortcode
+                            div
+                              div.elementor-shortcode
+                                p.project-location-home
+                                  img.location-image-home src="https://mediumorchid-hyena-502932.hostingersite.com/wp-content/uploads/2025/09/icons8-location-100.png"
+                                  a
+                                    "Maspero Triangle"
+                    div.elementor.elementor-743.swiper-slide.e-loop-item.e-loop-item-5865.post-5865.project.type-project.status-publish.has-post-thumbnail.hentry.amenities-a-fully-equipped-basement-en.amenities-clinics-scan-lab-dental-polyclinics-en.amenities-dedicated-daycare-en.amenities-double-height-retail-and-fb-units-en.amenities-hypermarket-on-site-en.amenities-prime-location-en.amenities-unique-loft-offices-en.amenities-water-features-en.location-new-cairo-city-en.project-type-administrative-en.project-type-clinics-en.project-type-commercial-en.project-type-offices-en.project-type-retail-en
+                      div.has_eae_slider.elementor-element.e-con-full.project-loop-item-en.e-flex.e-con.e-parent
+                        div.e-lazyloaded.has_eae_slider.elementor-element.e-con-full.e-flex.e-con.e-child
+                          div.has_eae_slider.elementor-element.e-con-full.see-project-hover.e-flex.e-con.e-child
+                            div.elementor-element.elementor-widget.elementor-widget-button
+                              div
+                                div.elementor-button-wrapper
+                                  a.elementor-button.elementor-button-link.elementor-size-sm
+                                    span.elementor-button-content-wrapper
+                                      span.elementor-button-text
+                                        "See Project Details"
+                        div.has_eae_slider.elementor-element.e-con-full.e-flex.e-con.e-child
+                          div.has_eae_slider.elementor-element.e-con-full.e-flex.e-con.e-child
+                            div.elementor-element.elementor-widget.elementor-widget-heading
+                              div
+                                h2.elementor-heading-title.elementor-size-default
+                                  a
+                                    "V40 District"
+                          div.elementor-element.elementor-widget.elementor-widget-shortcode
+                            div
+                              div.elementor-shortcode
+                                p.project-location-home
+                                  img.location-image-home src="https://mediumorchid-hyena-502932.hostingersite.com/wp-content/uploads/2025/09/icons8-location-100.png"
+                                  a
+                                    "New Cairo City"
+                    div.elementor.elementor-743.swiper-slide.e-loop-item.e-loop-item-5855.post-5855.project.type-project.status-publish.has-post-thumbnail.hentry.amenities-dedicated-entrances-en.amenities-fb-outlets-en.amenities-greenery-en.amenities-office-buildings-en.location-new-alamein-city-en.project-type-administrative-en.project-type-commercial-en.project-type-offices-en.project-type-retail-en
+                      div.has_eae_slider.elementor-element.e-con-full.project-loop-item-en.e-flex.e-con.e-parent
+                        div.e-lazyloaded.has_eae_slider.elementor-element.e-con-full.e-flex.e-con.e-child
+                          div.has_eae_slider.elementor-element.e-con-full.see-project-hover.e-flex.e-con.e-child
+                            div.elementor-element.elementor-widget.elementor-widget-button
+                              div
+                                div.elementor-button-wrapper
+                                  a.elementor-button.elementor-button-link.elementor-size-sm
+                                    span.elementor-button-content-wrapper
+                                      span.elementor-button-text
+                                        "See Project Details"
+                        div.has_eae_slider.elementor-element.e-con-full.e-flex.e-con.e-child
+                          div.has_eae_slider.elementor-element.e-con-full.e-flex.e-con.e-child
+                            div.elementor-element.elementor-widget.elementor-widget-heading
+                              div
+                                h2.elementor-heading-title.elementor-size-default
+                                  a
+                                    "Mazarine Hub"
+                          div.elementor-element.elementor-widget.elementor-widget-shortcode
+                            div
+                              div.elementor-shortcode
+                                p.project-location-home
+                                  img.location-image-home src="https://mediumorchid-hyena-502932.hostingersite.com/wp-content/uploads/2025/09/icons8-location-100.png"
+                                  a
+                                    "New Alamein City"
+                    div.elementor.elementor-743.swiper-slide.e-loop-item.e-loop-item-5840.post-5840.project.type-project.status-publish.has-post-thumbnail.hentry.amenities-a-lively-commercial-and-business-district-en.amenities-dedicated-entrances-en.amenities-greenery-en.amenities-water-lagoons-en.location-new-alamein-city-en.project-type-apartments-en.project-type-duplexes-en.project-type-residential-en
+                      div.has_eae_slider.elementor-element.e-con-full.project-loop-item-en.e-flex.e-con.e-parent
+                        div.e-lazyloaded.has_eae_slider.elementor-element.e-con-full.e-flex.e-con.e-child
+                          div.has_eae_slider.elementor-element.e-con-full.see-project-hover.e-flex.e-con.e-child
+                            div.elementor-element.elementor-widget.elementor-widget-button
+                              div
+                                div.elementor-button-wrapper
+                                  a.elementor-button.elementor-button-link.elementor-size-sm
+                                    span.elementor-button-content-wrapper
+                                      span.elementor-button-text
+                                        "See Project Details"
+                        div.has_eae_slider.elementor-element.e-con-full.e-flex.e-con.e-child
+                          div.has_eae_slider.elementor-element.e-con-full.e-flex.e-con.e-child
+                            div.elementor-element.elementor-widget.elementor-widget-heading
+                              div
+                                h2.elementor-heading-title.elementor-size-default
+                                  a
+                                    "Mazarine Boulevard"
+                          div.elementor-element.elementor-widget.elementor-widget-shortcode
+                            div
+                              div.elementor-shortcode
+                                p.project-location-home
+                                  img.location-image-home src="https://mediumorchid-hyena-502932.hostingersite.com/wp-content/uploads/2025/09/icons8-location-100.png"
+                                  a
+                                    "New Alamein City"
+                    div.elementor.elementor-743.swiper-slide.e-loop-item.e-loop-item-5828.post-5828.project.type-project.status-publish.has-post-thumbnail.hentry.amenities-advanced-firefighting-system-en.amenities-fiber-to-the-home-connection-ftth-en.amenities-parking-spaces-en.amenities-scenic-views-en.amenities-triple-play-en.location-new-capital-city-en.project-type-apartments-en.project-type-duplexes-en.project-type-residential-en
+                      div.has_eae_slider.elementor-element.e-con-full.project-loop-item-en.e-flex.e-con.e-parent
+                        div.e-lazyloaded.has_eae_slider.elementor-element.e-con-full.e-flex.e-con.e-child
+                          div.has_eae_slider.elementor-element.e-con-full.see-project-hover.e-flex.e-con.e-child
+                            div.elementor-element.elementor-widget.elementor-widget-button
+                              div
+                                div.elementor-button-wrapper
+                                  a.elementor-button.elementor-button-link.elementor-size-sm
+                                    span.elementor-button-content-wrapper
+                                      span.elementor-button-text
+                                        "See Project Details"
+                        div.has_eae_slider.elementor-element.e-con-full.e-flex.e-con.e-child
+                          div.has_eae_slider.elementor-element.e-con-full.e-flex.e-con.e-child
+                            div.elementor-element.elementor-widget.elementor-widget-heading
+                              div
+                                h2.elementor-heading-title.elementor-size-default
+                                  a
+                                    "Mamsha Vista"
+                          div.elementor-element.elementor-widget.elementor-widget-shortcode
+                            div
+                              div.elementor-shortcode
+                                p.project-location-home
+                                  img.location-image-home src="https://mediumorchid-hyena-502932.hostingersite.com/wp-content/uploads/2025/09/icons8-location-100.png"
+                                  a
+                                    "New Capital City"
+                    div.elementor.elementor-743.swiper-slide.e-loop-item.e-loop-item-5781.post-5781.project.type-project.status-publish.has-post-thumbnail.hentry.amenities-advanced-firefighting-system-en.amenities-fiber-to-the-home-connection-ftth-en.amenities-intercom-system-en.amenities-security-management-en.amenities-triple-play-en.location-new-capital-city-en.project-type-apartments-en.project-type-duplexes-en.project-type-penthouse-duplex-en.project-type-residential-en
+                      div.has_eae_slider.elementor-element.e-con-full.project-loop-item-en.e-flex.e-con.e-parent
+                        div.e-lazyloaded.has_eae_slider.elementor-element.e-con-full.e-flex.e-con.e-child
+                          div.has_eae_slider.elementor-element.e-con-full.see-project-hover.e-flex.e-con.e-child
+                            div.elementor-element.elementor-widget.elementor-widget-button
+                              div
+                                div.elementor-button-wrapper
+                                  a.elementor-button.elementor-button-link.elementor-size-sm
+                                    span.elementor-button-content-wrapper
+                                      span.elementor-button-text
+                                        "See Project Details"
+                        div.has_eae_slider.elementor-element.e-con-full.e-flex.e-con.e-child
+                          div.has_eae_slider.elementor-element.e-con-full.e-flex.e-con.e-child
+                            div.elementor-element.elementor-widget.elementor-widget-heading
+                              div
+                                h2.elementor-heading-title.elementor-size-default
+                                  a
+                                    "Jade Park"
+                          div.elementor-element.elementor-widget.elementor-widget-shortcode
+                            div
+                              div.elementor-shortcode
+                                p.project-location-home
+                                  img.location-image-home src="https://mediumorchid-hyena-502932.hostingersite.com/wp-content/uploads/2025/09/icons8-location-100.png"
+                                  a
+                                    "New Capital City"
+                    div.elementor.elementor-743.swiper-slide.e-loop-item.e-loop-item-4747.post-4747.project.type-project.status-publish.has-post-thumbnail.hentry.location-maspero-triangle-en.project-type-commercial-en.project-type-retail-en
+                      div.has_eae_slider.elementor-element.e-con-full.project-loop-item-en.e-flex.e-con.e-parent
+                        div.e-lazyloaded.has_eae_slider.elementor-element.e-con-full.e-flex.e-con.e-child
+                          div.has_eae_slider.elementor-element.e-con-full.see-project-hover.e-flex.e-con.e-child
+                            div.elementor-element.elementor-widget.elementor-widget-button
+                              div
+                                div.elementor-button-wrapper
+                                  a.elementor-button.elementor-button-link.elementor-size-sm
+                                    span.elementor-button-content-wrapper
+                                      span.elementor-button-text
+                                        "See Project Details"
+                        div.has_eae_slider.elementor-element.e-con-full.e-flex.e-con.e-child
+                          div.has_eae_slider.elementor-element.e-con-full.e-flex.e-con.e-child
+                            div.elementor-element.elementor-widget.elementor-widget-heading
+                              div
+                                h2.elementor-heading-title.elementor-size-default
+                                  a
+                                    "Maspero Mall"
+                          div.elementor-element.elementor-widget.elementor-widget-shortcode
+                            div
+                              div.elementor-shortcode
+                                p.project-location-home
+                                  img.location-image-home src="https://mediumorchid-hyena-502932.hostingersite.com/wp-content/uploads/2025/09/icons8-location-100.png"
+                                  a
+                                    "Maspero Triangle"
+                    div.elementor.elementor-743.swiper-slide.e-loop-item.e-loop-item-4742.post-4742.project.type-project.status-publish.has-post-thumbnail.hentry.amenities-audio-intercom-en.amenities-elevators-en.amenities-triple-play-en.location-maspero-triangle-en.project-type-administrative-en.project-type-offices-en
+                      div.has_eae_slider.elementor-element.e-con-full.project-loop-item-en.e-flex.e-con.e-parent
+                        div.e-lazyloaded.has_eae_slider.elementor-element.e-con-full.e-flex.e-con.e-child
+                          div.has_eae_slider.elementor-element.e-con-full.see-project-hover.e-flex.e-con.e-child
+                            div.elementor-element.elementor-widget.elementor-widget-button
+                              div
+                                div.elementor-button-wrapper
+                                  a.elementor-button.elementor-button-link.elementor-size-sm
+                                    span.elementor-button-content-wrapper
+                                      span.elementor-button-text
+                                        "See Project Details"
+                        div.has_eae_slider.elementor-element.e-con-full.e-flex.e-con.e-child
+                          div.has_eae_slider.elementor-element.e-con-full.e-flex.e-con.e-child
+                            div.elementor-element.elementor-widget.elementor-widget-heading
+                              div
+                                h2.elementor-heading-title.elementor-size-default
+                                  a
+                                    "Maspero Nile Heights"
+                          div.elementor-element.elementor-widget.elementor-widget-shortcode
+                            div
+                              div.elementor-shortcode
+                                p.project-location-home
+                                  img.location-image-home src="https://mediumorchid-hyena-502932.hostingersite.com/wp-content/uploads/2025/09/icons8-location-100.png"
+                                  a
+                                    "Maspero Triangle"
+                    div.elementor.elementor-743.swiper-slide.e-loop-item.e-loop-item-4739.post-4739.project.type-project.status-publish.has-post-thumbnail.hentry.amenities-elevators-en.amenities-ffth-en.amenities-triple-play-en.location-maspero-triangle-en.project-type-administrative-en.project-type-clinics-en.project-type-commercial-en.project-type-offices-en.project-type-retail-en
+                      div.has_eae_slider.elementor-element.e-con-full.project-loop-item-en.e-flex.e-con.e-parent
+                        div.e-lazyloaded.has_eae_slider.elementor-element.e-con-full.e-flex.e-con.e-child
+                          div.has_eae_slider.elementor-element.e-con-full.see-project-hover.e-flex.e-con.e-child
+                            div.elementor-element.elementor-widget.elementor-widget-button
+                              div
+                                div.elementor-button-wrapper
+                                  a.elementor-button.elementor-button-link.elementor-size-sm
+                                    span.elementor-button-content-wrapper
+                                      span.elementor-button-text
+                                        "See Project Details"
+                        div.has_eae_slider.elementor-element.e-con-full.e-flex.e-con.e-child
+                          div.has_eae_slider.elementor-element.e-con-full.e-flex.e-con.e-child
+                            div.elementor-element.elementor-widget.elementor-widget-heading
+                              div
+                                h2.elementor-heading-title.elementor-size-default
+                                  a
+                                    "Maspero Business Towers"
+                          div.elementor-element.elementor-widget.elementor-widget-shortcode
+                            div
+                              div.elementor-shortcode
+                                p.project-location-home
+                                  img.location-image-home src="https://mediumorchid-hyena-502932.hostingersite.com/wp-content/uploads/2025/09/icons8-location-100.png"
+                                  a
+                                    "Maspero Triangle"
+                    div.elementor.elementor-743.swiper-slide.e-loop-item.e-loop-item-4724.post-4724.project.type-project.status-publish.has-post-thumbnail.hentry.location-new-cairo-city-en.project-type-residential-en.project-type-villas-en
+                      div.has_eae_slider.elementor-element.e-con-full.project-loop-item-en.e-flex.e-con.e-parent
+                        div.e-lazyloaded.has_eae_slider.elementor-element.e-con-full.e-flex.e-con.e-child
+                          div.has_eae_slider.elementor-element.e-con-full.see-project-hover.e-flex.e-con.e-child
+                            div.elementor-element.elementor-widget.elementor-widget-button
+                              div
+                                div.elementor-button-wrapper
+                                  a.elementor-button.elementor-button-link.elementor-size-sm
+                                    span.elementor-button-content-wrapper
+                                      span.elementor-button-text
+                                        "See Project Details"
+                        div.has_eae_slider.elementor-element.e-con-full.e-flex.e-con.e-child
+                          div.has_eae_slider.elementor-element.e-con-full.e-flex.e-con.e-child
+                            div.elementor-element.elementor-widget.elementor-widget-heading
+                              div
+                                h2.elementor-heading-title.elementor-size-default
+                                  a
+                                    "V40"
+                          div.elementor-element.elementor-widget.elementor-widget-shortcode
+                            div
+                              div.elementor-shortcode
+                                p.project-location-home
+                                  img.location-image-home src="https://mediumorchid-hyena-502932.hostingersite.com/wp-content/uploads/2025/09/icons8-location-100.png"
+                                  a
+                                    "New Cairo City"
+                    div.elementor.elementor-743.swiper-slide.e-loop-item.e-loop-item-4708.post-4708.project.type-project.status-publish.has-post-thumbnail.hentry.amenities-landscape-areas-en.amenities-security-en.location-new-alamein-city-en.project-type-apartments-en.project-type-residential-en
+                      div.has_eae_slider.elementor-element.e-con-full.project-loop-item-en.e-flex.e-con.e-parent
+                        div.e-lazyloaded.has_eae_slider.elementor-element.e-con-full.e-flex.e-con.e-child
+                          div.has_eae_slider.elementor-element.e-con-full.see-project-hover.e-flex.e-con.e-child
+                            div.elementor-element.elementor-widget.elementor-widget-button
+                              div
+                                div.elementor-button-wrapper
+                                  a.elementor-button.elementor-button-link.elementor-size-sm
+                                    span.elementor-button-content-wrapper
+                                      span.elementor-button-text
+                                        "See Project Details"
+                        div.has_eae_slider.elementor-element.e-con-full.e-flex.e-con.e-child
+                          div.has_eae_slider.elementor-element.e-con-full.e-flex.e-con.e-child
+                            div.elementor-element.elementor-widget.elementor-widget-heading
+                              div
+                                h2.elementor-heading-title.elementor-size-default
+                                  a
+                                    "Latin City"
+                          div.elementor-element.elementor-widget.elementor-widget-shortcode
+                            div
+                              div.elementor-shortcode
+                                p.project-location-home
+                                  img.location-image-home src="https://mediumorchid-hyena-502932.hostingersite.com/wp-content/uploads/2025/09/icons8-location-100.png"
+                                  a
+                                    "New Alamein City"
+                    div.elementor.elementor-743.swiper-slide.e-loop-item.e-loop-item-4687.post-4687.project.type-project.status-publish.has-post-thumbnail.hentry.location-new-alamein-city-en.project-type-chalets-en.project-type-residential-en.project-type-townhouses-en
+                      div.has_eae_slider.elementor-element.e-con-full.project-loop-item-en.e-flex.e-con.e-parent
+                        div.e-lazyloaded.has_eae_slider.elementor-element.e-con-full.e-flex.e-con.e-child
+                          div.has_eae_slider.elementor-element.e-con-full.see-project-hover.e-flex.e-con.e-child
+                            div.elementor-element.elementor-widget.elementor-widget-button
+                              div
+                                div.elementor-button-wrapper
+                                  a.elementor-button.elementor-button-link.elementor-size-sm
+                                    span.elementor-button-content-wrapper
+                                      span.elementor-button-text
+                                        "See Project Details"
+                        div.has_eae_slider.elementor-element.e-con-full.e-flex.e-con.e-child
+                          div.has_eae_slider.elementor-element.e-con-full.e-flex.e-con.e-child
+                            div.elementor-element.elementor-widget.elementor-widget-heading
+                              div
+                                h2.elementor-heading-title.elementor-size-default
+                                  a
+                                    "Mazarine Townhouses"
+                          div.elementor-element.elementor-widget.elementor-widget-shortcode
+                            div
+                              div.elementor-shortcode
+                                p.project-location-home
+                                  img.location-image-home src="https://mediumorchid-hyena-502932.hostingersite.com/wp-content/uploads/2025/09/icons8-location-100.png"
+                                  a
+                                    "New Alamein City"
+                    div.elementor.elementor-743.swiper-slide.e-loop-item.e-loop-item-4649.post-4649.project.type-project.status-publish.has-post-thumbnail.hentry.amenities-cafes-restaurants-en.amenities-gym-en.amenities-sauna-en.amenities-spa-en.amenities-swimming-pools-en.location-new-alamein-city-en.project-type-apartments-en.project-type-duplexes-en.project-type-residential-en
+                      div.has_eae_slider.elementor-element.e-con-full.project-loop-item-en.e-flex.e-con.e-parent
+                        div.e-lazyloaded.has_eae_slider.elementor-element.e-con-full.e-flex.e-con.e-child
+                          div.has_eae_slider.elementor-element.e-con-full.see-project-hover.e-flex.e-con.e-child
+                            div.elementor-element.elementor-widget.elementor-widget-button
+                              div
+                                div.elementor-button-wrapper
+                                  a.elementor-button.elementor-button-link.elementor-size-sm
+                                    span.elementor-button-content-wrapper
+                                      span.elementor-button-text
+                                        "See Project Details"
+                        div.has_eae_slider.elementor-element.e-con-full.e-flex.e-con.e-child
+                          div.has_eae_slider.elementor-element.e-con-full.e-flex.e-con.e-child
+                            div.elementor-element.elementor-widget.elementor-widget-heading
+                              div
+                                h2.elementor-heading-title.elementor-size-default
+                                  a
+                                    "Beachfront Towers"
+                          div.elementor-element.elementor-widget.elementor-widget-shortcode
+                            div
+                              div.elementor-shortcode
+                                p.project-location-home
+                                  img.location-image-home src="https://mediumorchid-hyena-502932.hostingersite.com/wp-content/uploads/2025/09/icons8-location-100.png"
+                                  a
+                                    "New Alamein City"
+                    div.elementor.elementor-743.swiper-slide.e-loop-item.e-loop-item-4596.post-4596.project.type-project.status-publish.has-post-thumbnail.hentry.amenities-beach-clubhouse-en.amenities-dedicated-surface-parking-en.amenities-directly-overlooking-new-alamein-main-lagoon-and-towers-en.amenities-lagoon-promenade-en.amenities-luxurious-unit-designs-and-high-standards-fully-finished-units-en.amenities-open-views-and-green-pockets-en.amenities-secured-gated-community-en.amenities-swimming-pools-en.amenities-triple-play-en.location-new-alamein-city-en.project-type-chalets-en.project-type-residential-en
+                      div.has_eae_slider.elementor-element.e-con-full.project-loop-item-en.e-flex.e-con.e-parent
+                        div.e-lazyloaded.has_eae_slider.elementor-element.e-con-full.e-flex.e-con.e-child
+                          div.has_eae_slider.elementor-element.e-con-full.see-project-hover.e-flex.e-con.e-child
+                            div.elementor-element.elementor-widget.elementor-widget-button
+                              div
+                                div.elementor-button-wrapper
+                                  a.elementor-button.elementor-button-link.elementor-size-sm
+                                    span.elementor-button-content-wrapper
+                                      span.elementor-button-text
+                                        "See Project Details"
+                        div.has_eae_slider.elementor-element.e-con-full.e-flex.e-con.e-child
+                          div.has_eae_slider.elementor-element.e-con-full.e-flex.e-con.e-child
+                            div.elementor-element.elementor-widget.elementor-widget-heading
+                              div
+                                h2.elementor-heading-title.elementor-size-default
+                                  a
+                                    "Mazarine Ria Chalets"
+                          div.elementor-element.elementor-widget.elementor-widget-shortcode
+                            div
+                              div.elementor-shortcode
+                                p.project-location-home
+                                  img.location-image-home src="https://mediumorchid-hyena-502932.hostingersite.com/wp-content/uploads/2025/09/icons8-location-100.png"
+                                  a
+                                    "New Alamein City"
+                    div.elementor.elementor-743.swiper-slide.e-loop-item.e-loop-item-4573.post-4573.project.type-project.status-publish.has-post-thumbnail.hentry.amenities-bike-lane-en.amenities-health-clubs-en.amenities-main-large-piazza-en.amenities-open-spaces-landscaping-en.amenities-retail-and-commercial-spaces-en.amenities-underground-parking-en.location-new-alamein-city-en.project-type-commercial-en.project-type-retail-en
+                      div.has_eae_slider.elementor-element.e-con-full.project-loop-item-en.e-flex.e-con.e-parent
+                        div.e-lazyloaded.has_eae_slider.elementor-element.e-con-full.e-flex.e-con.e-child
+                          div.has_eae_slider.elementor-element.e-con-full.see-project-hover.e-flex.e-con.e-child
+                            div.elementor-element.elementor-widget.elementor-widget-button
+                              div
+                                div.elementor-button-wrapper
+                                  a.elementor-button.elementor-button-link.elementor-size-sm
+                                    span.elementor-button-content-wrapper
+                                      span.elementor-button-text
+                                        "See Project Details"
+                        div.has_eae_slider.elementor-element.e-con-full.e-flex.e-con.e-child
+                          div.has_eae_slider.elementor-element.e-con-full.e-flex.e-con.e-child
+                            div.elementor-element.elementor-widget.elementor-widget-heading
+                              div
+                                h2.elementor-heading-title.elementor-size-default
+                                  a
+                                    "Downtown Commercial"
+                          div.elementor-element.elementor-widget.elementor-widget-shortcode
+                            div
+                              div.elementor-shortcode
+                                p.project-location-home
+                                  img.location-image-home src="https://mediumorchid-hyena-502932.hostingersite.com/wp-content/uploads/2025/09/icons8-location-100.png"
+                                  a
+                                    "New Alamein City"
+                    div.elementor.elementor-743.swiper-slide.e-loop-item.e-loop-item-4556.post-4556.project.type-project.status-publish.has-post-thumbnail.hentry.location-new-alamein-city-en.project-type-administrative-en.project-type-commercial-en.project-type-offices-en.project-type-retail-en
+                      div.has_eae_slider.elementor-element.e-con-full.project-loop-item-en.e-flex.e-con.e-parent
+                        div.e-lazyloaded.has_eae_slider.elementor-element.e-con-full.e-flex.e-con.e-child
+                          div.has_eae_slider.elementor-element.e-con-full.see-project-hover.e-flex.e-con.e-child
+                            div.elementor-element.elementor-widget.elementor-widget-button
+                              div
+                                div.elementor-button-wrapper
+                                  a.elementor-button.elementor-button-link.elementor-size-sm
+                                    span.elementor-button-content-wrapper
+                                      span.elementor-button-text
+                                        "See Project Details"
+                        div.has_eae_slider.elementor-element.e-con-full.e-flex.e-con.e-child
+                          div.has_eae_slider.elementor-element.e-con-full.e-flex.e-con.e-child
+                            div.elementor-element.elementor-widget.elementor-widget-heading
+                              div
+                                h2.elementor-heading-title.elementor-size-default
+                                  a
+                                    "North Square Mall"
+                          div.elementor-element.elementor-widget.elementor-widget-shortcode
+                            div
+                              div.elementor-shortcode
+                                p.project-location-home
+                                  img.location-image-home src="https://mediumorchid-hyena-502932.hostingersite.com/wp-content/uploads/2025/09/icons8-location-100.png"
+                                  a
+                                    "New Alamein City"
+                    div.elementor.elementor-743.swiper-slide.e-loop-item.e-loop-item-4524.post-4524.project.type-project.status-publish.has-post-thumbnail.hentry.amenities-cctv-en.amenities-hvac-system-for-air-quality-en.amenities-private-parking-en.amenities-safety-system-en.amenities-waste-management-en.location-new-alamein-city-en.project-type-residential-en.project-type-studios-en
+                      div.has_eae_slider.elementor-element.e-con-full.project-loop-item-en.e-flex.e-con.e-parent
+                        div.e-lazyloaded.has_eae_slider.elementor-element.e-con-full.e-flex.e-con.e-child
+                          div.has_eae_slider.elementor-element.e-con-full.see-project-hover.e-flex.e-con.e-child
+                            div.elementor-element.elementor-widget.elementor-widget-button
+                              div
+                                div.elementor-button-wrapper
+                                  a.elementor-button.elementor-button-link.elementor-size-sm
+                                    span.elementor-button-content-wrapper
+                                      span.elementor-button-text
+                                        "See Project Details"
+                        div.has_eae_slider.elementor-element.e-con-full.e-flex.e-con.e-child
+                          div.has_eae_slider.elementor-element.e-con-full.e-flex.e-con.e-child
+                            div.elementor-element.elementor-widget.elementor-widget-heading
+                              div
+                                h2.elementor-heading-title.elementor-size-default
+                                  a
+                                    "North Edge Cabanas"
+                          div.elementor-element.elementor-widget.elementor-widget-shortcode
+                            div
+                              div.elementor-shortcode
+                                p.project-location-home
+                                  img.location-image-home src="https://mediumorchid-hyena-502932.hostingersite.com/wp-content/uploads/2025/09/icons8-location-100.png"
+                                  a
+                                    "New Alamein City"
+                    div.elementor.elementor-743.swiper-slide.e-loop-item.e-loop-item-4472.post-4472.project.type-project.status-publish.has-post-thumbnail.hentry.amenities-acs-fixtures-en.amenities-automated-street-lighting-en.amenities-bike-lane-en.amenities-elevators-en.amenities-kids-area-en.amenities-sports-court-en.amenities-swimming-pools-en.amenities-triple-play-en.amenities-underground-parking-en.location-new-alamein-city-en.project-type-apartments-en.project-type-residential-en
+                      div.has_eae_slider.elementor-element.e-con-full.project-loop-item-en.e-flex.e-con.e-parent
+                        div.e-lazyloaded.has_eae_slider.elementor-element.e-con-full.e-flex.e-con.e-child
+                          div.has_eae_slider.elementor-element.e-con-full.see-project-hover.e-flex.e-con.e-child
+                            div.elementor-element.elementor-widget.elementor-widget-button
+                              div
+                                div.elementor-button-wrapper
+                                  a.elementor-button.elementor-button-link.elementor-size-sm
+                                    span.elementor-button-content-wrapper
+                                      span.elementor-button-text
+                                        "See Project Details"
+                        div.has_eae_slider.elementor-element.e-con-full.e-flex.e-con.e-child
+                          div.has_eae_slider.elementor-element.e-con-full.e-flex.e-con.e-child
+                            div.elementor-element.elementor-widget.elementor-widget-heading
+                              div
+                                h2.elementor-heading-title.elementor-size-default
+                                  a
+                                    "Mazarine Apartments"
+                          div.elementor-element.elementor-widget.elementor-widget-shortcode
+                            div
+                              div.elementor-shortcode
+                                p.project-location-home
+                                  img.location-image-home src="https://mediumorchid-hyena-502932.hostingersite.com/wp-content/uploads/2025/09/icons8-location-100.png"
+                                  a
+                                    "New Alamein City"
+                    div.elementor.elementor-743.swiper-slide.e-loop-item.e-loop-item-4449.post-4449.project.type-project.status-publish.has-post-thumbnail.hentry.amenities-acs-fixtures-en.amenities-beach-clubhouse-en.amenities-dedicated-surface-parking-en.amenities-directly-overlooking-new-alamein-main-lagoon-and-towers-en.amenities-fresh-water-swimmable-lagoons-en.amenities-lagoon-promenade-en.amenities-luxurious-unit-designs-and-high-standards-fully-finished-units-en.amenities-open-views-and-green-pockets-en.amenities-sandy-beach-en.amenities-secured-gated-community-en.amenities-swimming-pools-en.amenities-triple-play-en.location-new-alamein-city-en.project-type-residential-en.project-type-villas-en
+                      div.has_eae_slider.elementor-element.e-con-full.project-loop-item-en.e-flex.e-con.e-parent
+                        div.e-lazyloaded.has_eae_slider.elementor-element.e-con-full.e-flex.e-con.e-child
+                          div.has_eae_slider.elementor-element.e-con-full.see-project-hover.e-flex.e-con.e-child
+                            div.elementor-element.elementor-widget.elementor-widget-button
+                              div
+                                div.elementor-button-wrapper
+                                  a.elementor-button.elementor-button-link.elementor-size-sm
+                                    span.elementor-button-content-wrapper
+                                      span.elementor-button-text
+                                        "See Project Details"
+                        div.has_eae_slider.elementor-element.e-con-full.e-flex.e-con.e-child
+                          div.has_eae_slider.elementor-element.e-con-full.e-flex.e-con.e-child
+                            div.elementor-element.elementor-widget.elementor-widget-heading
+                              div
+                                h2.elementor-heading-title.elementor-size-default
+                                  a
+                                    "Mazarine Ria Villas"
+                          div.elementor-element.elementor-widget.elementor-widget-shortcode
+                            div
+                              div.elementor-shortcode
+                                p.project-location-home
+                                  img.location-image-home src="https://mediumorchid-hyena-502932.hostingersite.com/wp-content/uploads/2025/09/icons8-location-100.png"
+                                  a
+                                    "New Alamein City"
+                    div.elementor.elementor-743.swiper-slide.e-loop-item.e-loop-item-4433.post-4433.project.type-project.status-publish.has-post-thumbnail.hentry.amenities-bike-jogging-tracks-en.amenities-cctv-en.amenities-generators-en.amenities-landscape-areas-en.amenities-parking-en.amenities-swimming-pools-en.amenities-triple-play-en.location-new-alamein-city-en.project-type-residential-en.project-type-villas-en
+                      div.has_eae_slider.elementor-element.e-con-full.project-loop-item-en.e-flex.e-con.e-parent
+                        div.e-lazyloaded.has_eae_slider.elementor-element.e-con-full.e-flex.e-con.e-child
+                          div.has_eae_slider.elementor-element.e-con-full.see-project-hover.e-flex.e-con.e-child
+                            div.elementor-element.elementor-widget.elementor-widget-button
+                              div
+                                div.elementor-button-wrapper
+                                  a.elementor-button.elementor-button-link.elementor-size-sm
+                                    span.elementor-button-content-wrapper
+                                      span.elementor-button-text
+                                        "See Project Details"
+                        div.has_eae_slider.elementor-element.e-con-full.e-flex.e-con.e-child
+                          div.has_eae_slider.elementor-element.e-con-full.e-flex.e-con.e-child
+                            div.elementor-element.elementor-widget.elementor-widget-heading
+                              div
+                                h2.elementor-heading-title.elementor-size-default
+                                  a
+                                    "Mazarine Islands"
+                          div.elementor-element.elementor-widget.elementor-widget-shortcode
+                            div
+                              div.elementor-shortcode
+                                p.project-location-home
+                                  img.location-image-home src="https://mediumorchid-hyena-502932.hostingersite.com/wp-content/uploads/2025/09/icons8-location-100.png"
+                                  a
+                                    "New Alamein City"
+                    div.elementor.elementor-743.swiper-slide.e-loop-item.e-loop-item-4336.post-4336.project.type-project.status-publish.has-post-thumbnail.hentry.amenities-bicycle-jogging-lanes-en.amenities-fiber-to-home-en.amenities-landscape-areas-en.amenities-parking-en.amenities-swimming-pools-en.amenities-triple-play-en.location-new-alamein-city-en.project-type-chalets-en.project-type-residential-en.project-type-twin-villas-en.project-type-villas-en
+                      div.has_eae_slider.elementor-element.e-con-full.project-loop-item-en.e-flex.e-con.e-parent
+                        div.e-lazyloaded.has_eae_slider.elementor-element.e-con-full.e-flex.e-con.e-child
+                          div.has_eae_slider.elementor-element.e-con-full.see-project-hover.e-flex.e-con.e-child
+                            div.elementor-element.elementor-widget.elementor-widget-button
+                              div
+                                div.elementor-button-wrapper
+                                  a.elementor-button.elementor-button-link.elementor-size-sm
+                                    span.elementor-button-content-wrapper
+                                      span.elementor-button-text
+                                        "See Project Details"
+                        div.has_eae_slider.elementor-element.e-con-full.e-flex.e-con.e-child
+                          div.has_eae_slider.elementor-element.e-con-full.e-flex.e-con.e-child
+                            div.elementor-element.elementor-widget.elementor-widget-heading
+                              div
+                                h2.elementor-heading-title.elementor-size-default
+                                  a
+                                    "Mazarine Villas"
+                          div.elementor-element.elementor-widget.elementor-widget-shortcode
+                            div
+                              div.elementor-shortcode
+                                p.project-location-home
+                                  img.location-image-home src="https://mediumorchid-hyena-502932.hostingersite.com/wp-content/uploads/2025/09/icons8-location-100.png"
+                                  a
+                                    "New Alamein City"
+                    div.elementor.elementor-743.swiper-slide.e-loop-item.e-loop-item-4117.post-4117.project.type-project.status-publish.has-post-thumbnail.hentry.amenities-automated-street-lighting-en.amenities-fiber-to-home-en.amenities-generators-en.amenities-triple-play-en.location-new-alamein-city-en.project-type-chalets-en.project-type-residential-en
+                      div.has_eae_slider.elementor-element.e-con-full.project-loop-item-en.e-flex.e-con.e-parent
+                        div.e-lazyloaded.has_eae_slider.elementor-element.e-con-full.e-flex.e-con.e-child
+                          div.has_eae_slider.elementor-element.e-con-full.see-project-hover.e-flex.e-con.e-child
+                            div.elementor-element.elementor-widget.elementor-widget-button
+                              div
+                                div.elementor-button-wrapper
+                                  a.elementor-button.elementor-button-link.elementor-size-sm
+                                    span.elementor-button-content-wrapper
+                                      span.elementor-button-text
+                                        "See Project Details"
+                        div.has_eae_slider.elementor-element.e-con-full.e-flex.e-con.e-child
+                          div.has_eae_slider.elementor-element.e-con-full.e-flex.e-con.e-child
+                            div.elementor-element.elementor-widget.elementor-widget-heading
+                              div
+                                h2.elementor-heading-title.elementor-size-default
+                                  a
+                                    "Mazarine The Chalets"
+                          div.elementor-element.elementor-widget.elementor-widget-shortcode
+                            div
+                              div.elementor-shortcode
+                                p.project-location-home
+                                  img.location-image-home src="https://mediumorchid-hyena-502932.hostingersite.com/wp-content/uploads/2025/09/icons8-location-100.png"
+                                  a
+                                    "New Alamein City"
+                    div.elementor.elementor-743.swiper-slide.e-loop-item.e-loop-item-4052.post-4052.project.type-project.status-publish.has-post-thumbnail.hentry.amenities-bike-lane-en.amenities-elevators-en.amenities-parking-en.amenities-pedestrians-walkways-en.amenities-security-management-en.amenities-triple-play-en.location-new-capital-city-en.project-type-administrative-en.project-type-clinics-en.project-type-commercial-en.project-type-offices-en.project-type-retail-en
+                      div.has_eae_slider.elementor-element.e-con-full.project-loop-item-en.e-flex.e-con.e-parent
+                        div.e-lazyloaded.has_eae_slider.elementor-element.e-con-full.e-flex.e-con.e-child
+                          div.has_eae_slider.elementor-element.e-con-full.see-project-hover.e-flex.e-con.e-child
+                            div.elementor-element.elementor-widget.elementor-widget-button
+                              div
+                                div.elementor-button-wrapper
+                                  a.elementor-button.elementor-button-link.elementor-size-sm
+                                    span.elementor-button-content-wrapper
+                                      span.elementor-button-text
+                                        "See Project Details"
+                        div.has_eae_slider.elementor-element.e-con-full.e-flex.e-con.e-child
+                          div.has_eae_slider.elementor-element.e-con-full.e-flex.e-con.e-child
+                            div.elementor-element.elementor-widget.elementor-widget-heading
+                              div
+                                h2.elementor-heading-title.elementor-size-default
+                                  a
+                                    "Mamsha AlMaqsad"
+                          div.elementor-element.elementor-widget.elementor-widget-shortcode
+                            div
+                              div.elementor-shortcode
+                                p.project-location-home
+                                  img.location-image-home src="https://mediumorchid-hyena-502932.hostingersite.com/wp-content/uploads/2025/09/icons8-location-100.png"
+                                  a
+                                    "New Capital City"
+                    div.elementor.elementor-743.swiper-slide.e-loop-item.e-loop-item-4002.post-4002.project.type-project.status-publish.has-post-thumbnail.hentry.amenities-cctv-en.amenities-hvac-system-for-air-quality-en.amenities-private-parking-en.amenities-safety-system-en.amenities-waste-management-en.location-new-alamein-city-en.project-type-apartments-en.project-type-residential-en
+                      div.has_eae_slider.elementor-element.e-con-full.project-loop-item-en.e-flex.e-con.e-parent
+                        div.e-lazyloaded.has_eae_slider.elementor-element.e-con-full.e-flex.e-con.e-child
+                          div.has_eae_slider.elementor-element.e-con-full.see-project-hover.e-flex.e-con.e-child
+                            div.elementor-element.elementor-widget.elementor-widget-button
+                              div
+                                div.elementor-button-wrapper
+                                  a.elementor-button.elementor-button-link.elementor-size-sm
+                                    span.elementor-button-content-wrapper
+                                      span.elementor-button-text
+                                        "See Project Details"
+                        div.has_eae_slider.elementor-element.e-con-full.e-flex.e-con.e-child
+                          div.has_eae_slider.elementor-element.e-con-full.e-flex.e-con.e-child
+                            div.elementor-element.elementor-widget.elementor-widget-heading
+                              div
+                                h2.elementor-heading-title.elementor-size-default
+                                  a
+                                    "North Edge"
+                          div.elementor-element.elementor-widget.elementor-widget-shortcode
+                            div
+                              div.elementor-shortcode
+                                p.project-location-home
+                                  img.location-image-home src="https://mediumorchid-hyena-502932.hostingersite.com/wp-content/uploads/2025/09/icons8-location-100.png"
+                                  a
+                                    "New Alamein City"
+                    div.elementor.elementor-743.swiper-slide.e-loop-item.e-loop-item-3931.post-3931.project.type-project.status-publish.has-post-thumbnail.hentry.amenities-bike-lane-en.amenities-health-clubs-en.amenities-main-large-piazza-en.amenities-open-spaces-landscaping-en.amenities-retail-and-commercial-spaces-en.amenities-underground-parking-en.location-new-alamein-city-en.project-type-apartments-en.project-type-residential-en
+                      div.has_eae_slider.elementor-element.e-con-full.project-loop-item-en.e-flex.e-con.e-parent
+                        div.e-lazyloaded.has_eae_slider.elementor-element.e-con-full.e-flex.e-con.e-child
+                          div.has_eae_slider.elementor-element.e-con-full.see-project-hover.e-flex.e-con.e-child
+                            div.elementor-element.elementor-widget.elementor-widget-button
+                              div
+                                div.elementor-button-wrapper
+                                  a.elementor-button.elementor-button-link.elementor-size-sm
+                                    span.elementor-button-content-wrapper
+                                      span.elementor-button-text
+                                        "See Project Details"
+                        div.has_eae_slider.elementor-element.e-con-full.e-flex.e-con.e-child
+                          div.has_eae_slider.elementor-element.e-con-full.e-flex.e-con.e-child
+                            div.elementor-element.elementor-widget.elementor-widget-heading
+                              div
+                                h2.elementor-heading-title.elementor-size-default
+                                  a
+                                    "Downtown"
+                          div.elementor-element.elementor-widget.elementor-widget-shortcode
+                            div
+                              div.elementor-shortcode
+                                p.project-location-home
+                                  img.location-image-home src="https://mediumorchid-hyena-502932.hostingersite.com/wp-content/uploads/2025/09/icons8-location-100.png"
+                                  a
+                                    "New Alamein City"
+                    div.elementor.elementor-743.swiper-slide.e-loop-item.e-loop-item-3915.post-3915.project.type-project.status-publish.has-post-thumbnail.hentry.amenities-bike-lane-en.amenities-elevators-en.amenities-fiber-to-home-en.amenities-parking-en.amenities-pedestrians-walkways-en.amenities-security-management-en.amenities-triple-play-en.location-new-capital-city-en.project-type-administrative-en.project-type-apartments-en.project-type-clinics-en.project-type-commercial-en.project-type-duplexes-en.project-type-offices-en.project-type-residential-en.project-type-retail-en
+                      div.has_eae_slider.elementor-element.e-con-full.project-loop-item-en.e-flex.e-con.e-parent
+                        div.e-lazyloaded.has_eae_slider.elementor-element.e-con-full.e-flex.e-con.e-child
+                          div.has_eae_slider.elementor-element.e-con-full.see-project-hover.e-flex.e-con.e-child
+                            div.elementor-element.elementor-widget.elementor-widget-button
+                              div
+                                div.elementor-button-wrapper
+                                  a.elementor-button.elementor-button-link.elementor-size-sm
+                                    span.elementor-button-content-wrapper
+                                      span.elementor-button-text
+                                        "See Project Details"
+                        div.has_eae_slider.elementor-element.e-con-full.e-flex.e-con.e-child
+                          div.has_eae_slider.elementor-element.e-con-full.e-flex.e-con.e-child
+                            div.elementor-element.elementor-widget.elementor-widget-heading
+                              div
+                                h2.elementor-heading-title.elementor-size-default
+                                  a
+                                    "Mamsha Avenue"
+                          div.elementor-element.elementor-widget.elementor-widget-shortcode
+                            div
+                              div.elementor-shortcode
+                                p.project-location-home
+                                  img.location-image-home src="https://mediumorchid-hyena-502932.hostingersite.com/wp-content/uploads/2025/09/icons8-location-100.png"
+                                  a
+                                    "New Capital City"
+                    div.elementor.elementor-743.swiper-slide.e-loop-item.e-loop-item-3910.post-3910.project.type-project.status-publish.has-post-thumbnail.hentry.location-new-capital-city-en.project-type-apartments-en.project-type-residential-en
+                      div.has_eae_slider.elementor-element.e-con-full.project-loop-item-en.e-flex.e-con.e-parent
+                        div.e-lazyloaded.has_eae_slider.elementor-element.e-con-full.e-flex.e-con.e-child
+                          div.has_eae_slider.elementor-element.e-con-full.see-project-hover.e-flex.e-con.e-child
+                            div.elementor-element.elementor-widget.elementor-widget-button
+                              div
+                                div.elementor-button-wrapper
+                                  a.elementor-button.elementor-button-link.elementor-size-sm
+                                    span.elementor-button-content-wrapper
+                                      span.elementor-button-text
+                                        "See Project Details"
+                        div.has_eae_slider.elementor-element.e-con-full.e-flex.e-con.e-child
+                          div.has_eae_slider.elementor-element.e-con-full.e-flex.e-con.e-child
+                            div.elementor-element.elementor-widget.elementor-widget-heading
+                              div
+                                h2.elementor-heading-title.elementor-size-default
+                                  a
+                                    "Verandas"
+                          div.elementor-element.elementor-widget.elementor-widget-shortcode
+                            div
+                              div.elementor-shortcode
+                                p.project-location-home
+                                  img.location-image-home src="https://mediumorchid-hyena-502932.hostingersite.com/wp-content/uploads/2025/09/icons8-location-100.png"
+                                  a
+                                    "New Capital City"
+                    div.elementor.elementor-743.swiper-slide.e-loop-item.e-loop-item-3903.post-3903.project.type-project.status-publish.has-post-thumbnail.hentry.amenities-clinics-en.amenities-first-class-education-en.amenities-sports-club-en.location-new-capital-city-en.project-type-apartments-en.project-type-residential-en
+                      div.has_eae_slider.elementor-element.e-con-full.project-loop-item-en.e-flex.e-con.e-parent
+                        div.e-lazyloaded.has_eae_slider.elementor-element.e-con-full.e-flex.e-con.e-child
+                          div.has_eae_slider.elementor-element.e-con-full.see-project-hover.e-flex.e-con.e-child
+                            div.elementor-element.elementor-widget.elementor-widget-button
+                              div
+                                div.elementor-button-wrapper
+                                  a.elementor-button.elementor-button-link.elementor-size-sm
+                                    span.elementor-button-content-wrapper
+                                      span.elementor-button-text
+                                        "See Project Details"
+                        div.has_eae_slider.elementor-element.e-con-full.e-flex.e-con.e-child
+                          div.has_eae_slider.elementor-element.e-con-full.e-flex.e-con.e-child
+                            div.elementor-element.elementor-widget.elementor-widget-heading
+                              div
+                                h2.elementor-heading-title.elementor-size-default
+                                  a
+                                    "Centria"
+                          div.elementor-element.elementor-widget.elementor-widget-shortcode
+                            div
+                              div.elementor-shortcode
+                                p.project-location-home
+                                  img.location-image-home src="https://mediumorchid-hyena-502932.hostingersite.com/wp-content/uploads/2025/09/icons8-location-100.png"
+                                  a
+                                    "New Capital City"
+                    div.elementor.elementor-743.swiper-slide.e-loop-item.e-loop-item-3893.post-3893.project.type-project.status-publish.has-post-thumbnail.hentry.amenities-first-class-education-en.amenities-medical-service-en.amenities-sports-club-en.location-new-capital-city-en.project-type-apartments-en.project-type-residential-en
+                      div.has_eae_slider.elementor-element.e-con-full.project-loop-item-en.e-flex.e-con.e-parent
+                        div.e-lazyloaded.has_eae_slider.elementor-element.e-con-full.e-flex.e-con.e-child
+                          div.has_eae_slider.elementor-element.e-con-full.see-project-hover.e-flex.e-con.e-child
+                            div.elementor-element.elementor-widget.elementor-widget-button
+                              div
+                                div.elementor-button-wrapper
+                                  a.elementor-button.elementor-button-link.elementor-size-sm
+                                    span.elementor-button-content-wrapper
+                                      span.elementor-button-text
+                                        "See Project Details"
+                        div.has_eae_slider.elementor-element.e-con-full.e-flex.e-con.e-child
+                          div.has_eae_slider.elementor-element.e-con-full.e-flex.e-con.e-child
+                            div.elementor-element.elementor-widget.elementor-widget-heading
+                              div
+                                h2.elementor-heading-title.elementor-size-default
+                                  a
+                                    "Garden City Heights"
+                          div.elementor-element.elementor-widget.elementor-widget-shortcode
+                            div
+                              div.elementor-shortcode
+                                p.project-location-home
+                                  img.location-image-home src="https://mediumorchid-hyena-502932.hostingersite.com/wp-content/uploads/2025/09/icons8-location-100.png"
+                                  a
+                                    "New Capital City"
+                    div.elementor.elementor-743.swiper-slide.e-loop-item.e-loop-item-3884.post-3884.project.type-project.status-publish.has-post-thumbnail.hentry.amenities-bike-lane-en.amenities-elevators-en.amenities-fiber-to-home-en.amenities-parking-en.amenities-pedestrians-walkways-en.amenities-security-management-en.amenities-triple-play-en.location-new-capital-city-en.project-type-apartments-en.project-type-residential-en
+                      div.has_eae_slider.elementor-element.e-con-full.project-loop-item-en.e-flex.e-con.e-parent
+                        div.e-lazyloaded.has_eae_slider.elementor-element.e-con-full.e-flex.e-con.e-child
+                          div.has_eae_slider.elementor-element.e-con-full.see-project-hover.e-flex.e-con.e-child
+                            div.elementor-element.elementor-widget.elementor-widget-button
+                              div
+                                div.elementor-button-wrapper
+                                  a.elementor-button.elementor-button-link.elementor-size-sm
+                                    span.elementor-button-content-wrapper
+                                      span.elementor-button-text
+                                        "See Project Details"
+                        div.has_eae_slider.elementor-element.e-con-full.e-flex.e-con.e-child
+                          div.has_eae_slider.elementor-element.e-con-full.e-flex.e-con.e-child
+                            div.elementor-element.elementor-widget.elementor-widget-heading
+                              div
+                                h2.elementor-heading-title.elementor-size-default
+                                  a
+                                    "AlMaqsad Park"
+                          div.elementor-element.elementor-widget.elementor-widget-shortcode
+                            div
+                              div.elementor-shortcode
+                                p.project-location-home
+                                  img.location-image-home src="https://mediumorchid-hyena-502932.hostingersite.com/wp-content/uploads/2025/09/icons8-location-100.png"
+                                  a
+                                    "New Capital City"
+                    div.elementor.elementor-743.swiper-slide.e-loop-item.e-loop-item-3874.post-3874.project.type-project.status-publish.has-post-thumbnail.hentry.amenities-bike-lane-en.amenities-elevators-en.amenities-fiber-to-home-en.amenities-parking-en.amenities-pedestrians-walkways-en.amenities-security-management-en.location-new-capital-city-en.project-type-apartments-en.project-type-duplexes-en.project-type-residential-en
+                      div.has_eae_slider.elementor-element.e-con-full.project-loop-item-en.e-flex.e-con.e-parent
+                        div.e-lazyloaded.has_eae_slider.elementor-element.e-con-full.e-flex.e-con.e-child
+                          div.has_eae_slider.elementor-element.e-con-full.see-project-hover.e-flex.e-con.e-child
+                            div.elementor-element.elementor-widget.elementor-widget-button
+                              div
+                                div.elementor-button-wrapper
+                                  a.elementor-button.elementor-button-link.elementor-size-sm
+                                    span.elementor-button-content-wrapper
+                                      span.elementor-button-text
+                                        "See Project Details"
+                        div.has_eae_slider.elementor-element.e-con-full.e-flex.e-con.e-child
+                          div.has_eae_slider.elementor-element.e-con-full.e-flex.e-con.e-child
+                            div.elementor-element.elementor-widget.elementor-widget-heading
+                              div
+                                h2.elementor-heading-title.elementor-size-default
+                                  a
+                                    "Mamsha Gardens"
+                          div.elementor-element.elementor-widget.elementor-widget-shortcode
+                            div
+                              div.elementor-shortcode
+                                p.project-location-home
+                                  img.location-image-home src="https://mediumorchid-hyena-502932.hostingersite.com/wp-content/uploads/2025/09/icons8-location-100.png"
+                                  a
+                                    "New Capital City"
+                    div.elementor.elementor-743.swiper-slide.e-loop-item.e-loop-item-3865.post-3865.project.type-project.status-publish.has-post-thumbnail.hentry.amenities-bike-lane-en.amenities-elevators-en.amenities-parking-en.amenities-pedestrians-walkways-en.amenities-security-management-en.amenities-triple-play-en.location-new-capital-city-en.project-type-administrative-en.project-type-clinics-en.project-type-commercial-en.project-type-offices-en.project-type-retail-en
+                      div.has_eae_slider.elementor-element.e-con-full.project-loop-item-en.e-flex.e-con.e-parent
+                        div.e-lazyloaded.has_eae_slider.elementor-element.e-con-full.e-flex.e-con.e-child
+                          div.has_eae_slider.elementor-element.e-con-full.see-project-hover.e-flex.e-con.e-child
+                            div.elementor-element.elementor-widget.elementor-widget-button
+                              div
+                                div.elementor-button-wrapper
+                                  a.elementor-button.elementor-button-link.elementor-size-sm
+                                    span.elementor-button-content-wrapper
+                                      span.elementor-button-text
+                                        "See Project Details"
+                        div.has_eae_slider.elementor-element.e-con-full.e-flex.e-con.e-child
+                          div.has_eae_slider.elementor-element.e-con-full.e-flex.e-con.e-child
+                            div.elementor-element.elementor-widget.elementor-widget-heading
+                              div
+                                h2.elementor-heading-title.elementor-size-default
+                                  a
+                                    "Mamsha District"
+                          div.elementor-element.elementor-widget.elementor-widget-shortcode
+                            div
+                              div.elementor-shortcode
+                                p.project-location-home
+                                  img.location-image-home src="https://mediumorchid-hyena-502932.hostingersite.com/wp-content/uploads/2025/09/icons8-location-100.png"
+                                  a
+                                    "New Capital City"
+                    div.elementor.elementor-743.swiper-slide.e-loop-item.e-loop-item-3856.post-3856.project.type-project.status-publish.has-post-thumbnail.hentry.amenities-elevators-en.amenities-fiber-to-home-en.amenities-parking-en.amenities-security-management-en.amenities-triple-play-en.location-new-capital-city-en.project-type-apartments-en.project-type-duplexes-en.project-type-residential-en
+                      div.has_eae_slider.elementor-element.e-con-full.project-loop-item-en.e-flex.e-con.e-parent
+                        div.e-lazyloaded.has_eae_slider.elementor-element.e-con-full.e-flex.e-con.e-child
+                          div.has_eae_slider.elementor-element.e-con-full.see-project-hover.e-flex.e-con.e-child
+                            div.elementor-element.elementor-widget.elementor-widget-button
+                              div
+                                div.elementor-button-wrapper
+                                  a.elementor-button.elementor-button-link.elementor-size-sm
+                                    span.elementor-button-content-wrapper
+                                      span.elementor-button-text
+                                        "See Project Details"
+                        div.has_eae_slider.elementor-element.e-con-full.e-flex.e-con.e-child
+                          div.has_eae_slider.elementor-element.e-con-full.e-flex.e-con.e-child
+                            div.elementor-element.elementor-widget.elementor-widget-heading
+                              div
+                                h2.elementor-heading-title.elementor-size-default
+                                  a
+                                    "Mamsha Views"
+                          div.elementor-element.elementor-widget.elementor-widget-shortcode
+                            div
+                              div.elementor-shortcode
+                                p.project-location-home
+                                  img.location-image-home src="https://mediumorchid-hyena-502932.hostingersite.com/wp-content/uploads/2025/09/icons8-location-100.png"
+                                  a
+                                    "New Capital City"
+                    div.elementor.elementor-743.swiper-slide.e-loop-item.e-loop-item-3847.post-3847.project.type-project.status-publish.has-post-thumbnail.hentry.amenities-bike-lane-en.amenities-community-center-en.amenities-fiber-to-home-en.amenities-public-landscape-greenery-en.amenities-triple-play-en.location-new-capital-city-en.project-type-residential-en.project-type-townhouses-en.project-type-villas-en
+                      div.has_eae_slider.elementor-element.e-con-full.project-loop-item-en.e-flex.e-con.e-parent
+                        div.e-lazyloaded.has_eae_slider.elementor-element.e-con-full.e-flex.e-con.e-child
+                          div.has_eae_slider.elementor-element.e-con-full.see-project-hover.e-flex.e-con.e-child
+                            div.elementor-element.elementor-widget.elementor-widget-button
+                              div
+                                div.elementor-button-wrapper
+                                  a.elementor-button.elementor-button-link.elementor-size-sm
+                                    span.elementor-button-content-wrapper
+                                      span.elementor-button-text
+                                        "See Project Details"
+                        div.has_eae_slider.elementor-element.e-con-full.e-flex.e-con.e-child
+                          div.has_eae_slider.elementor-element.e-con-full.e-flex.e-con.e-child
+                            div.elementor-element.elementor-widget.elementor-widget-heading
+                              div
+                                h2.elementor-heading-title.elementor-size-default
+                                  a
+                                    "Arjan"
+                          div.elementor-element.elementor-widget.elementor-widget-shortcode
+                            div
+                              div.elementor-shortcode
+                                p.project-location-home
+                                  img.location-image-home src="https://mediumorchid-hyena-502932.hostingersite.com/wp-content/uploads/2025/09/icons8-location-100.png"
+                                  a
+                                    "New Capital City"
+                    div.elementor.elementor-743.swiper-slide.e-loop-item.e-loop-item-3818.post-3818.project.type-project.status-publish.has-post-thumbnail.hentry.amenities-bike-lane-en.amenities-community-service-en.amenities-elevators-en.amenities-inner-landscape-within-residential-clusters-en.amenities-parking-spaces-en.location-new-capital-city-en.project-type-apartments-en.project-type-residential-en
+                      div.has_eae_slider.elementor-element.e-con-full.project-loop-item-en.e-flex.e-con.e-parent
+                        div.e-lazyloaded.has_eae_slider.elementor-element.e-con-full.e-flex.e-con.e-child
+                          div.has_eae_slider.elementor-element.e-con-full.see-project-hover.e-flex.e-con.e-child
+                            div.elementor-element.elementor-widget.elementor-widget-button
+                              div
+                                div.elementor-button-wrapper
+                                  a.elementor-button.elementor-button-link.elementor-size-sm
+                                    span.elementor-button-content-wrapper
+                                      span.elementor-button-text
+                                        "See Project Details"
+                        div.has_eae_slider.elementor-element.e-con-full.e-flex.e-con.e-child
+                          div.has_eae_slider.elementor-element.e-con-full.e-flex.e-con.e-child
+                            div.elementor-element.elementor-widget.elementor-widget-heading
+                              div
+                                h2.elementor-heading-title.elementor-size-default
+                                  a
+                                    "AlMaqsad Residences"
+                          div.elementor-element.elementor-widget.elementor-widget-shortcode
+                            div
+                              div.elementor-shortcode
+                                p.project-location-home
+                                  img.location-image-home src="https://mediumorchid-hyena-502932.hostingersite.com/wp-content/uploads/2025/09/icons8-location-100.png"
+                                  a
+                                    "New Capital City"
+                    div.elementor.elementor-743.swiper-slide.e-loop-item.e-loop-item-3728.post-3728.project.type-project.status-publish.has-post-thumbnail.hentry.amenities-bike-lane-en.amenities-community-center-en.amenities-fiber-to-home-en.amenities-triple-play-en.location-new-capital-city-en.project-type-residential-en.project-type-townhouses-en.project-type-twin-villas-en.project-type-villas-en
+                      div.has_eae_slider.elementor-element.e-con-full.project-loop-item-en.e-flex.e-con.e-parent
+                        div.e-lazyloaded.has_eae_slider.elementor-element.e-con-full.e-flex.e-con.e-child
+                          div.has_eae_slider.elementor-element.e-con-full.see-project-hover.e-flex.e-con.e-child
+                            div.elementor-element.elementor-widget.elementor-widget-button
+                              div
+                                div.elementor-button-wrapper
+                                  a.elementor-button.elementor-button-link.elementor-size-sm
+                                    span.elementor-button-content-wrapper
+                                      span.elementor-button-text
+                                        "See Project Details"
+                        div.has_eae_slider.elementor-element.e-con-full.e-flex.e-con.e-child
+                          div.has_eae_slider.elementor-element.e-con-full.e-flex.e-con.e-child
+                            div.elementor-element.elementor-widget.elementor-widget-heading
+                              div
+                                h2.elementor-heading-title.elementor-size-default
+                                  a
+                                    "AlMaqsad Villas"
+                          div.elementor-element.elementor-widget.elementor-widget-shortcode
+                            div
+                              div.elementor-shortcode
+                                p.project-location-home
+                                  img.location-image-home src="https://mediumorchid-hyena-502932.hostingersite.com/wp-content/uploads/2025/09/icons8-location-100.png"
+                                  a
+                                    "New Capital City"
+                    div.elementor.elementor-743.swiper-slide.e-loop-item.e-loop-item-3420.post-3420.project.type-project.status-publish.has-post-thumbnail.hentry.amenities-bms-system-en.amenities-cinema-halls-en.amenities-elevators-en.amenities-food-beverages-en.amenities-generators-en.amenities-gym-en.amenities-restaurants-en.amenities-retails-shops-en.amenities-sky-pools-en.amenities-spa-en.amenities-waste-management-en.location-new-alamein-city-en.project-type-apartments-en.project-type-residential-en.project-type-studios-en
+                      div.has_eae_slider.elementor-element.e-con-full.project-loop-item-en.e-flex.e-con.e-parent
+                        div.e-lazyloaded.has_eae_slider.elementor-element.e-con-full.e-flex.e-con.e-child
+                          div.has_eae_slider.elementor-element.e-con-full.see-project-hover.e-flex.e-con.e-child
+                            div.elementor-element.elementor-widget.elementor-widget-button
+                              div
+                                div.elementor-button-wrapper
+                                  a.elementor-button.elementor-button-link.elementor-size-sm
+                                    span.elementor-button-content-wrapper
+                                      span.elementor-button-text
+                                        "See Project Details"
+                        div.has_eae_slider.elementor-element.e-con-full.e-flex.e-con.e-child
+                          div.has_eae_slider.elementor-element.e-con-full.e-flex.e-con.e-child
+                            div.elementor-element.elementor-widget.elementor-widget-heading
+                              div
+                                h2.elementor-heading-title.elementor-size-default
+                                  a
+                                    "The Gate Towers"
+                          div.elementor-element.elementor-widget.elementor-widget-shortcode
+                            div
+                              div.elementor-shortcode
+                                p.project-location-home
+                                  img.location-image-home src="https://mediumorchid-hyena-502932.hostingersite.com/wp-content/uploads/2025/09/icons8-location-100.png"
+                                  a
+                                    "New Alamein City"
+                    div.elementor.elementor-743.swiper-slide.e-loop-item.e-loop-item-3389.post-3389.project.type-project.status-publish.has-post-thumbnail.hentry.amenities-elevators-en.amenities-emergency-generators-en.amenities-fb-outlets-en.amenities-hvac-chilled-water-system-en.amenities-parking-en.amenities-retail-stores-en.amenities-security-cctv-en.amenities-triple-play-en.location-sheikh-zayed-city-en.project-type-administrative-en.project-type-clinics-en.project-type-commercial-en.project-type-offices-en.project-type-retail-en
+                      div.has_eae_slider.elementor-element.e-con-full.project-loop-item-en.e-flex.e-con.e-parent
+                        div.e-lazyloaded.has_eae_slider.elementor-element.e-con-full.e-flex.e-con.e-child
+                          div.has_eae_slider.elementor-element.e-con-full.see-project-hover.e-flex.e-con.e-child
+                            div.elementor-element.elementor-widget.elementor-widget-button
+                              div
+                                div.elementor-button-wrapper
+                                  a.elementor-button.elementor-button-link.elementor-size-sm
+                                    span.elementor-button-content-wrapper
+                                      span.elementor-button-text
+                                        "See Project Details"
+                        div.has_eae_slider.elementor-element.e-con-full.e-flex.e-con.e-child
+                          div.has_eae_slider.elementor-element.e-con-full.e-flex.e-con.e-child
+                            div.elementor-element.elementor-widget.elementor-widget-heading
+                              div
+                                h2.elementor-heading-title.elementor-size-default
+                                  a
+                                    "Etapa Square"
+                          div.elementor-element.elementor-widget.elementor-widget-shortcode
+                            div
+                              div.elementor-shortcode
+                                p.project-location-home
+                                  img.location-image-home src="https://mediumorchid-hyena-502932.hostingersite.com/wp-content/uploads/2025/09/icons8-location-100.png"
+                                  a
+                                    "Sheikh Zayed City"
+                    div.elementor.elementor-743.swiper-slide.e-loop-item.e-loop-item-3336.post-3336.project.type-project.status-publish.has-post-thumbnail.hentry.amenities-bike-jogging-lanes-en.amenities-security-system-en.amenities-smart-compound-en.amenities-sports-facilities-en.location-sheikh-zayed-city-en.project-type-apartments-en.project-type-duplexes-en.project-type-residential-en.project-type-townhouses-en.project-type-twin-villas-en.project-type-villas-en
+                      div.has_eae_slider.elementor-element.e-con-full.project-loop-item-en.e-flex.e-con.e-parent
+                        div.e-lazyloaded.has_eae_slider.elementor-element.e-con-full.e-flex.e-con.e-child
+                          div.has_eae_slider.elementor-element.e-con-full.see-project-hover.e-flex.e-con.e-child
+                            div.elementor-element.elementor-widget.elementor-widget-button
+                              div
+                                div.elementor-button-wrapper
+                                  a.elementor-button.elementor-button-link.elementor-size-sm
+                                    span.elementor-button-content-wrapper
+                                      span.elementor-button-text
+                                        "See Project Details"
+                        div.has_eae_slider.elementor-element.e-con-full.e-flex.e-con.e-child
+                          div.has_eae_slider.elementor-element.e-con-full.e-flex.e-con.e-child
+                            div.elementor-element.elementor-widget.elementor-widget-heading
+                              div
+                                h2.elementor-heading-title.elementor-size-default
+                                  a
+                                    "Etapa"
+                          div.elementor-element.elementor-widget.elementor-widget-shortcode
+                            div
+                              div.elementor-shortcode
+                                p.project-location-home
+                                  img.location-image-home src="https://mediumorchid-hyena-502932.hostingersite.com/wp-content/uploads/2025/09/icons8-location-100.png"
+                                  a
+                                    "Sheikh Zayed City"
+                    div.elementor.elementor-743.swiper-slide.e-loop-item.e-loop-item-3295.post-3295.project.type-project.status-publish.has-post-thumbnail.hentry.amenities-commercial-and-retail-centers-en.amenities-medical-service-en.amenities-sea-coast-en.amenities-sports-club-en.amenities-universities-schools-en.location-new-mansoura-city-en.project-type-residential-en.project-type-townhouses-en.project-type-twin-villas-en.project-type-villas-en
+                      div.has_eae_slider.elementor-element.e-con-full.project-loop-item-en.e-flex.e-con.e-parent
+                        div.e-lazyloaded.has_eae_slider.elementor-element.e-con-full.e-flex.e-con.e-child
+                          div.has_eae_slider.elementor-element.e-con-full.see-project-hover.e-flex.e-con.e-child
+                            div.elementor-element.elementor-widget.elementor-widget-button
+                              div
+                                div.elementor-button-wrapper
+                                  a.elementor-button.elementor-button-link.elementor-size-sm
+                                    span.elementor-button-content-wrapper
+                                      span.elementor-button-text
+                                        "See Project Details"
+                        div.has_eae_slider.elementor-element.e-con-full.e-flex.e-con.e-child
+                          div.has_eae_slider.elementor-element.e-con-full.e-flex.e-con.e-child
+                            div.elementor-element.elementor-widget.elementor-widget-heading
+                              div
+                                h2.elementor-heading-title.elementor-size-default
+                                  a
+                                    "Areej"
+                          div.elementor-element.elementor-widget.elementor-widget-shortcode
+                            div
+                              div.elementor-shortcode
+                                p.project-location-home
+                                  img.location-image-home src="https://mediumorchid-hyena-502932.hostingersite.com/wp-content/uploads/2025/09/icons8-location-100.png"
+                                  a
+                                    "New Mansoura City"
+                    div.elementor.elementor-743.swiper-slide.e-loop-item.e-loop-item-3253.post-3253.project.type-project.status-publish.has-post-thumbnail.hentry.amenities-commercial-and-retail-centers-en.amenities-medical-service-en.amenities-sea-coast-en.amenities-sports-club-en.amenities-universities-schools-en.location-new-mansoura-city-en.project-type-residential-en.project-type-townhouses-en.project-type-twin-villas-en.project-type-villas-en
+                      div.has_eae_slider.elementor-element.e-con-full.project-loop-item-en.e-flex.e-con.e-parent
+                        div.e-lazyloaded.has_eae_slider.elementor-element.e-con-full.e-flex.e-con.e-child
+                          div.has_eae_slider.elementor-element.e-con-full.see-project-hover.e-flex.e-con.e-child
+                            div.elementor-element.elementor-widget.elementor-widget-button
+                              div
+                                div.elementor-button-wrapper
+                                  a.elementor-button.elementor-button-link.elementor-size-sm
+                                    span.elementor-button-content-wrapper
+                                      span.elementor-button-text
+                                        "See Project Details"
+                        div.has_eae_slider.elementor-element.e-con-full.e-flex.e-con.e-child
+                          div.has_eae_slider.elementor-element.e-con-full.e-flex.e-con.e-child
+                            div.elementor-element.elementor-widget.elementor-widget-heading
+                              div
+                                h2.elementor-heading-title.elementor-size-default
+                                  a
+                                    "Misque"
+                          div.elementor-element.elementor-widget.elementor-widget-shortcode
+                            div
+                              div.elementor-shortcode
+                                p.project-location-home
+                                  img.location-image-home src="https://mediumorchid-hyena-502932.hostingersite.com/wp-content/uploads/2025/09/icons8-location-100.png"
+                                  a
+                                    "New Mansoura City"
+                    div.elementor.elementor-743.swiper-slide.e-loop-item.e-loop-item-3002.post-3002.project.type-project.status-publish.has-post-thumbnail.hentry.amenities-commercial-and-retail-centers-en.amenities-medical-service-en.amenities-sea-coast-en.amenities-sports-club-en.amenities-universities-schools-en.location-new-mansoura-city-en.project-type-residential-en.project-type-townhouses-en.project-type-twin-villas-en.project-type-villas-en
+                      div.has_eae_slider.elementor-element.e-con-full.project-loop-item-en.e-flex.e-con.e-parent
+                        div.e-lazyloaded.has_eae_slider.elementor-element.e-con-full.e-flex.e-con.e-child
+                          div.has_eae_slider.elementor-element.e-con-full.see-project-hover.e-flex.e-con.e-child
+                            div.elementor-element.elementor-widget.elementor-widget-button
+                              div
+                                div.elementor-button-wrapper
+                                  a.elementor-button.elementor-button-link.elementor-size-sm
+                                    span.elementor-button-content-wrapper
+                                      span.elementor-button-text
+                                        "See Project Details"
+                        div.has_eae_slider.elementor-element.e-con-full.e-flex.e-con.e-child
+                          div.has_eae_slider.elementor-element.e-con-full.e-flex.e-con.e-child
+                            div.elementor-element.elementor-widget.elementor-widget-heading
+                              div
+                                h2.elementor-heading-title.elementor-size-default
+                                  a
+                                    "Zahya"
+                          div.elementor-element.elementor-widget.elementor-widget-shortcode
+                            div
+                              div.elementor-shortcode
+                                p.project-location-home
+                                  img.location-image-home src="https://mediumorchid-hyena-502932.hostingersite.com/wp-content/uploads/2025/09/icons8-location-100.png"
+                                  a
+                                    "New Mansoura City"
+            div.elementor-element.elementor-align-center.elementor-widget.elementor-widget-button
+              div
+                div.elementor-button-wrapper
+                  a.elementor-button.elementor-button-link.elementor-size-sm
+                    span.elementor-button-content-wrapper
+                      span.elementor-button-text
+                        "View All Destinations"
+        div.has_eae_slider.elementor-element.e-flex.e-con-boxed.e-con.e-parent.e-lazyloaded
+          div.e-con-inner
+            div.elementor-element.elementor-widget.elementor-widget-spacer
+              div
+                div.elementor-spacer
+        div.has_eae_slider.elementor-element.e-flex.e-con-boxed.e-con.e-parent.e-lazyloaded
+          div.e-con-inner
+            div.has_eae_slider.elementor-element.e-con-full.e-flex.e-con.e-child.animated.fadeInLeft
+              div.elementor-element.elementor-widget.elementor-widget-heading
+                div
+                  h2.elementor-heading-title.elementor-size-default
+                    "City Edge Developments"
+                    "Mobile App"
+              div.has_eae_slider.elementor-element.e-con-full.e-flex.e-con.e-child
+                div.has_eae_slider.elementor-element.e-grid.e-con-full.e-con.e-child
+                  div.has_eae_slider.elementor-element.e-con-full.e-flex.e-con.e-child
+                    div.elementor-element.small.elementor-icon-list--layout-traditional.elementor-list-item-link-full_width.elementor-widget.elementor-widget-icon-list
+                      div
+                        ul.elementor-icon-list-items
+                          li.elementor-icon-list-item
+                            span.elementor-icon-list-text
+                              "Service Requests"
+                    div.elementor-element.elementor-widget.elementor-widget-text-editor
+                      div
+                        p
+                          "Request maintenance or housekeeping"
+                          "services with real-time status tracking."
+                  div.has_eae_slider.elementor-element.e-con-full.e-flex.e-con.e-child
+                    div.elementor-element.small.elementor-icon-list--layout-traditional.elementor-list-item-link-full_width.elementor-widget.elementor-widget-icon-list
+                      div
+                        ul.elementor-icon-list-items
+                          li.elementor-icon-list-item
+                            span.elementor-icon-list-text
+                              "Pay Installments"
+                    div.elementor-element.elementor-widget.elementor-widget-text-editor
+                      div
+                        p
+                          "Settle your installements,"
+                          "maintenance fees securely, anytime, from anywhere."
+                  div.has_eae_slider.elementor-element.e-con-full.e-flex.e-con.e-child
+                    div.elementor-element.small.elementor-icon-list--layout-traditional.elementor-list-item-link-full_width.elementor-widget.elementor-widget-icon-list
+                      div
+                        ul.elementor-icon-list-items
+                          li.elementor-icon-list-item
+                            span.elementor-icon-list-text
+                              "Beach Access"
+                    div.elementor-element.elementor-widget.elementor-widget-text-editor
+                      div
+                        p
+                          "Easily book your beach visits"
+                          "and enjoy a seamless entry experience."
+                  div.has_eae_slider.elementor-element.e-con-full.e-flex.e-con.e-child
+                    div.elementor-element.small.elementor-icon-list--layout-traditional.elementor-list-item-link-full_width.elementor-widget.elementor-widget-icon-list
+                      div
+                        ul.elementor-icon-list-items
+                          li.elementor-icon-list-item
+                            span.elementor-icon-list-text
+                              "Community Announcements"
+                    div.elementor-element.elementor-widget.elementor-widget-text-editor
+                      div
+                        p
+                          "Get notified instantly about services update, comm"
+                  div.has_eae_slider.elementor-element.e-con-full.e-flex.e-con.e-child
+                    div.elementor-element.small.elementor-icon-list--layout-traditional.elementor-list-item-link-full_width.elementor-widget.elementor-widget-icon-list
+                      div
+                        ul.elementor-icon-list-items
+                          li.elementor-icon-list-item
+                            span.elementor-icon-list-text
+                              "Explore Projects"
+                    div.elementor-element.elementor-widget.elementor-widget-heading
+                      div
+                        p.elementor-heading-title.elementor-size-default
+                          "Browse City Edge's latest developments and stay"
+                          "informed."
+                  div.has_eae_slider.elementor-element.e-con-full.e-flex.e-con.e-child
+                    div.elementor-element.small.elementor-icon-list--layout-traditional.elementor-list-item-link-full_width.elementor-widget.elementor-widget-icon-list
+                      div
+                        ul.elementor-icon-list-items
+                          li.elementor-icon-list-item
+                            span.elementor-icon-list-text
+                              "Latest News"
+                    div.elementor-element.elementor-widget.elementor-widget-text-editor
+                      div
+                        p
+                          "Stay up to date with City Edge’s announcement, lat"
+            div.has_eae_slider.elementor-element.e-con-full.e-flex.e-con.e-child
+              div.elementor-element.elementor-widget.elementor-widget-image.animated.fadeInRight
+                div
+                  img.attachment-large.size-large.wp-image-919 src="https://cityedgedevelopments.com/cityedgedevelopmentswordpress/wp-content/uploads/2025/06/Group-1111-copy-795x1024.webp"
+        div.has_eae_slider.elementor-element.e-flex.e-con-boxed.e-con.e-parent
+          div.e-con-inner
+            div.elementor-element.elementor-widget.elementor-widget-spacer
+              div
+                div.elementor-spacer
+  div.elementor.elementor-304.elementor-location-footer
+    div#main-footer-id.has_eae_slider.elementor-element.e-flex.e-con-boxed.e-con.e-parent
+      div.e-con-inner
+        div.has_eae_slider.elementor-element.e-con-full.e-flex.e-con.e-child
+          div.has_eae_slider.elementor-element.e-flex.e-con-boxed.e-con.e-child
+            div.e-con-inner
+              div.elementor-element.elementor-widget.elementor-widget-image
+                div
+                  img.attachment-large.size-large.wp-image-308 src="https://cityedgedevelopments.com/cityedgedevelopmentswordpress/wp-content/uploads/2025/05/QR-Code.svg"
+              div.elementor-element.elementor-widget.elementor-widget-heading
+                div
+                  h2.elementor-heading-title.elementor-size-default
+                    "Scan The QR Code"
+                    span
+                      "Download Our App"
+          div.has_eae_slider.elementor-element.e-flex.e-con-boxed.e-con.e-child
+            div.e-con-inner
+              div.elementor-element.elementor-widget.elementor-widget-image
+                div
+                  a
+                    img.attachment-large.size-large.wp-image-309 src="https://cityedgedevelopments.com/cityedgedevelopmentswordpress/wp-content/uploads/2025/05/Group.svg"
+              div.elementor-element.elementor-widget.elementor-widget-image
+                div
+                  a
+                    img.attachment-large.size-large.wp-image-310 src="https://cityedgedevelopments.com/cityedgedevelopmentswordpress/wp-content/uploads/2025/05/Badges.svg"
+          div.has_eae_slider.elementor-element.e-flex.e-con-boxed.e-con.e-child
+            div.e-con-inner
+              div.elementor-element.elementor-tablet-align-center.elementor-widget.elementor-widget-button
+                div
+                  div.elementor-button-wrapper
+                    a.elementor-button.elementor-button-link.elementor-size-sm
+                      span.elementor-button-content-wrapper
+                        span.elementor-button-text
+                          "Contact us"
+              div.elementor-element.elementor-tablet-align-center.elementor-widget.elementor-widget-button
+                div
+                  div.elementor-button-wrapper
+                    a.elementor-button.elementor-button-link.elementor-size-sm
+                      span.elementor-button-content-wrapper
+                        span.elementor-button-text
+                          "Download our latest newsletter"
+        div.has_eae_slider.elementor-element.e-con-full.e-flex.e-con.e-child
+          div.has_eae_slider.elementor-element.e-con-full.e-flex.e-con.e-child
+            div.elementor-element.elementor-widget.elementor-widget-heading
+              div
+                h2.elementor-heading-title.elementor-size-default
+                  "We Build"
+                  span
+                    "Future Egypt"
+            div.elementor-element.e-grid-align-left.elementor-shape-rounded.elementor-grid-0.elementor-widget.elementor-widget-social-icons
+              div
+                div.elementor-social-icons-wrapper.elementor-grid
+                  span.elementor-grid-item
+                    a.elementor-icon.elementor-social-icon.elementor-social-icon-facebook.elementor-repeater-item-048a091
+                      span.elementor-screen-only
+                        "Facebook"
+                  span.elementor-grid-item
+                    a.elementor-icon.elementor-social-icon.elementor-social-icon-instagram.elementor-repeater-item-75dc674
+                      span.elementor-screen-only
+                        "Instagram"
+                  span.elementor-grid-item
+                    a.elementor-icon.elementor-social-icon.elementor-social-icon-linkedin.elementor-repeater-item-522a710
+                      span.elementor-screen-only
+                        "Linkedin"
+                  span.elementor-grid-item
+                    a.elementor-icon.elementor-social-icon.elementor-social-icon-youtube.elementor-repeater-item-daf95f3
+                      span.elementor-screen-only
+                        "Youtube"
+          div.has_eae_slider.elementor-element.e-con-full.e-flex.e-con.e-child
+            div.has_eae_slider.elementor-element.e-con-full.elementor-hidden-desktop.elementor-hidden-tablet.elementor-hidden-mobile.e-flex.e-con.e-child
+              div.elementor-element.small.elementor-widget.elementor-widget-heading
+                div
+                  h2.elementor-heading-title.elementor-size-default
+                    "Media Center"
+              div.elementor-element.elementor-view-default.elementor-widget.elementor-widget-icon
+                div
+                  div.elementor-icon-wrapper
+            div.has_eae_slider.elementor-element.e-con-full.elementor-hidden-desktop.elementor-hidden-tablet.elementor-hidden-mobile.e-flex.e-con.e-child
+              div.elementor-element.small.elementor-widget.elementor-widget-heading
+                div
+                  h2.elementor-heading-title.elementor-size-default
+                    "Hospitality"
+              div.elementor-element.elementor-view-default.elementor-widget.elementor-widget-icon
+                div
+                  div.elementor-icon-wrapper
+            div.has_eae_slider.elementor-element.e-con-full.elementor-hidden-desktop.elementor-hidden-tablet.elementor-hidden-mobile.e-flex.e-con.e-child
+              div.elementor-element.small.elementor-widget.elementor-widget-heading
+                div
+                  h2.elementor-heading-title.elementor-size-default
+                    "Subscribe to Newsletter"
+              div.elementor-element.elementor-view-default.elementor-widget.elementor-widget-icon
+                div
+                  div.elementor-icon-wrapper
+          div.has_eae_slider.elementor-element.e-con-full.e-flex.e-con.e-child
+            div.elementor-element.small.elementor-widget.elementor-widget-heading
+              div
+                h2.elementor-heading-title.elementor-size-default
+                  a
+                    "16044"
+            div.elementor-element.small.elementor-widget.elementor-widget-heading
+              div
+                h2.elementor-heading-title.elementor-size-default
+                  a
+                    "info@ced-eg.com"
+        div.has_eae_slider.elementor-element.e-con-full.e-flex.e-con.e-child
+          div.elementor-element.elementor-widget.elementor-widget-text-editor
+            div
+              p
+                "All rights reserved, Made With love at"
+                a
+                  "PIMULA AGENCY"

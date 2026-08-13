@@ -1,0 +1,206 @@
+pe="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}" href="#elementor-action%3Aaction%3Dpopup%3Aopen%26settings%3DeyJpZCI6IjE0MzgiLCJ0b2dnbGUiOnRydWV9">
+				<div class="elementor-element elementor-element-97fcb06 elementor-view-default elementor-widget elementor-widget-icon" data-id="97fcb06" data-element_type="widget" data-widget_type="icon.default">
+				<div class="elementor-widget-container">
+							<div class="elementor-icon-wrapper">
+			<div class="elementor-icon">
+			<svg xmlns="http://www.w3.org/2000/svg" id="a0eecb04-3825-4823-933f-cf65f05d6c87" data-name="Layer 1" viewBox="0 0 11.7 10.2"><path d="M6.6,10.2l-.9-.9L9.3,5.7H0V4.5H9.3L5.7.9,6.6,0l5.1,5.1Z"></path></svg>			</div>
+		</div>
+						</div>
+				</div>
+				<div class="elementor-element elementor-element-005109a small elementor-widget elementor-widget-heading" data-id="005109a" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h2 class="elementor-heading-title elementor-size-default">Contact us</h2>				</div>
+				</div>
+				</a>
+				</div>
+		<div data-rocket-location-hash="f2cd11a18e76954dc2611ee32af4d542" class="has_eae_slider elementor-element elementor-element-b998435 e-flex e-con-boxed e-con e-parent e-lazyloaded" data-eae-slider="27333" data-id="b998435" data-element_type="container">
+					<div data-rocket-location-hash="f250ef8b555c141129e008721383720a" class="e-con-inner">
+				<div class="elementor-element elementor-element-6fd9e54 elementor-widget elementor-widget-html" data-id="6fd9e54" data-element_type="widget" data-widget_type="html.default">
+				<div class="elementor-widget-container">
+					<a href="#" id="smart-scroll-button" aria-label="Scroll Page" class="" style="--water-level: 22.703510082150856%;"></a>
+
+<style>
+  /* Smart Scroll Button with Water and Bounce Effects */
+#smart-scroll-button {
+    /* CSS variable for the water level, controlled by JavaScript */
+    --water-level: 100%;
+
+    position: fixed;
+    bottom: 180px;
+    right: 10px;
+    width: 45px;
+    height: 45px;
+    background-color: #A68543;
+    color: white;
+    border-radius: 50%;
+    cursor: pointer;
+    z-index: 9999;
+    /* MODIFIED: Added 'bottom' for smooth position change */
+    transition: transform 0.3s ease, bottom 0.3s ease-out;
+    text-decoration: none;
+    display: block;
+    overflow: hidden; /* Crucial: Hides parts of the effect outside the circle */
+    box-shadow: 0px 0px 25px -5px rgba(50, 88, 130, 0.4);
+}
+
+/* ADDED: New class to handle the lowered position */
+#smart-scroll-button.is-lowered {
+    bottom: 20px;
+}
+
+#smart-scroll-button:hover {
+    transform: scale(1.1);
+}
+
+/* Style for the Arrow Icon (using ::before) */
+#smart-scroll-button::before {
+    content: '\2193'; /* Down arrow ↓ */
+    position: relative;
+    z-index: 2; /* Ensures arrow is ON TOP of the water */
+    font-size: 24px;
+    line-height: 45px; /* Vertically centers the arrow */
+    text-align: center;
+    display: block;
+    text-shadow: 0 0 5px rgba(0,0,0,0.5); /* Makes arrow more visible */
+}
+
+/* Style for the "Scroll Up" arrow */
+#smart-scroll-button.scroll-to-top::before {
+    content: '\2191'; /* Up arrow ↑ */
+}
+
+/* The Water Effect (using ::after) */
+#smart-scroll-button::after {
+    content: '';
+    position: absolute;
+    z-index: 1; /* Sits below the arrow */
+    opacity: .7;
+    bottom: 0;
+    left: -25%; /* Positioned to look like a wave */
+    height: 100%;
+    width: 150%;
+    background: #00263D;
+    border-radius: 40%;
+    animation: waveEffect 5s ease-in-out alternate infinite;
+    
+    /* Moves the water up based on the CSS variable */
+    transform: translateY(var(--water-level));
+    transition: transform 0.5s ease-out;
+}
+
+/* Class to trigger the bounce animation */
+#smart-scroll-button.is-bouncing {
+    animation: bounce 0.4s ease-out;
+}
+
+/* Animation keyframes for the wave-like motion */
+@keyframes waveEffect {
+    to {
+        transform: translateY(var(--water-level)) rotate(360deg);
+    }
+}
+
+/* Animation keyframes for the bounce motion */
+@keyframes bounce {
+    0% { transform: translateY(0); }
+    50% { transform: translateY(-15px); } /* Bounces up by 15px */
+    100% { transform: translateY(0); }
+}
+
+/* Responsive adjustment for smaller screens */
+@media screen and (max-width: 768px) {
+    #smart-scroll-button {
+        bottom: 200px;
+        z-index: 100!important;
+    }
+    /* ADDED: Also adjust the lowered position on mobile if needed */
+    #smart-scroll-button.is-lowered {
+        bottom: 20px;
+    }
+}
+</style>
+
+<script>
+    jQuery(document).ready(function($) {
+    var scrollButton = $('#smart-scroll-button');
+    var isBouncing = false;
+    var footer = $('#main-footer-id');
+    var megaMenuTrigger = $('.mega-menu-trigger'); 
+
+    function updateScrollButtonState() {
+        // --- This section for the scroll button remains unchanged ---
+        if (!isBouncing) {
+            isBouncing = true;
+            scrollButton.addClass('is-bouncing');
+            setTimeout(function() {
+                scrollButton.removeClass('is-bouncing');
+                isBouncing = false;
+            }, 400);
+        }
+
+        let scrollTop = $(window).scrollTop();
+        let docHeight = $(document).height();
+        let winHeight = $(window).height();
+        let scrollableHeight = docHeight - winHeight;
+        let scrollPercent = scrollableHeight > 0 ? (scrollTop / scrollableHeight) * 100 : 100;
+        let waterLevel = 100 - scrollPercent;
+        scrollButton.css('--water-level', waterLevel + '%');
+
+        var isAtBottom = (scrollTop + winHeight) >= (docHeight - 50);
+        if (isAtBottom) {
+            scrollButton.addClass('scroll-to-top');
+        } else {
+            scrollButton.removeClass('scroll-to-top');
+        }
+
+        // --- MODIFIED: Logic to hide trigger AND move scroll button ---
+        if (footer.length && megaMenuTrigger.length) { 
+            var footerTop = footer.offset().top;
+            var windowBottom = scrollTop + winHeight;
+            var buffer = 20; 
+
+            if (windowBottom > (footerTop - buffer)) {
+                // When near the footer: hide the menu trigger AND lower the scroll button
+                megaMenuTrigger.fadeOut(200);
+                scrollButton.addClass('is-lowered');
+            } else {
+                // Otherwise: show the menu trigger AND restore the scroll button's position
+                megaMenuTrigger.fadeIn(200);
+                scrollButton.removeClass('is-lowered');
+            }
+        }
+    }
+
+    // This click handler for the scroll button remains unchanged
+    scrollButton.on('click', function(e) {
+        e.preventDefault();
+        if ($(this).hasClass('scroll-to-top')) {
+            $('html, body').animate({ scrollTop: 0 }, 500);
+        } else {
+            $('html, body').animate({ scrollTop: $(window).scrollTop() + $(window).height() }, 500);
+        }
+    });
+
+    $(window).on('scroll', updateScrollButtonState);
+    updateScrollButtonState();
+});
+</script>				</div>
+				</div>
+					</div>
+				</div>
+				</div>
+		
+<main data-rocket-location-hash="b280e57a6743348ffc6a3f072392a12d" id="content" class="site-main post-6996 page type-page status-publish hentry">
+
+	
+	<div data-rocket-location-hash="a750e7d025ff301eb115f835c5c850e5" class="page-content">
+				<div data-rocket-location-hash="b37ee14610d7f4cf972247be3bf266ea" data-elementor-type="wp-page" data-elementor-id="6996" class="elementor elementor-6996" data-elementor-post-type="page">
+				<div class="has_eae_slider elementor-element elementor-element-2151f6d e-con-full e-flex e-con e-parent e-lazyloaded" data-eae-slider="36755" data-id="2151f6d" data-element_type="container">
+		<div class="has_eae_slider elementor-element elementor-element-6c4f759 e-con-full e-flex e-con e-child" data-eae-slider="29020" data-id="6c4f759" data-element_type="container">
+		<div class="has_eae_slider elementor-element elementor-element-797c2b8 e-con-full e-flex e-con e-child" data-eae-slider="43424" data-id="797c2b8" data-element_type="container">
+				<div class="elementor-element elementor-element-381ac5d elementor-pagination-type-fraction elementor-pagination-position-inside elementor-arrows-position-inside elementor-widget elementor-widget-n-carousel e-widget-swiper" data-id="381ac5d" data-element_type="widget" data-settings="{&quot;carousel_items&quot;:[{&quot;slide_title&quot;:&quot;Slide #1&quot;,&quot;_id&quot;:&quot;3cd0656&quot;},{&quot;slide_title&quot;:&quot;Slide #2&quot;,&quot;_id&quot;:&quot;dd53290&quot;},{&quot;slide_title&quot;:&quot;Slide #2&quot;,&quot;_id&quot;:&quot;6fa98c9&quot;},{&quot;slide_title&quot;:&quot;Slide #2&quot;,&quot;_id&quot;:&quot;12b2a73&quot;},{&quot;slide_title&quot;:&quot;Slide #2&quot;,&quot;_id&quot;:&quot;a04c847&quot;},{&quot;slide_title&quot;:&quot;Slide #2&quot;,&quot;_id&quot;:&quot;bd5aa36&quot;},{&quot;slide_title&quot;:&quot;Slide #2&quot;,&quot;_id&quot;:&quot;d7370f7&quot;},{&quot;slide_title&quot;:&quot;Slide #2&quot;,&quot;_id&quot;:&quot;dca22ff&quot;},{&quot;slide_title&quot;:&quot;Slide #2&quot;,&quot;_id&quot;:&quot;b1217a3&quot;}],&quot;slides_to_show&quot;:&quot;1&quot;,&quot;slides_to_show_tablet&quot;:&quot;1&quot;,&quot;slides_to_scroll&quot;:&quot;1&quot;,&quot;slides_to_scroll_tablet&quot;:&quot;1&quot;,&quot;pagination&quot;:&quot;fraction&quot;,&quot;slides_to_scroll_mobile&quot;:&quot;1&quot;,&quot;image_spacing_custom&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:0,&quot;sizes&quot;:[]},&quot;slides_to_show_mobile&quot;:&quot;1&quot;,&quot;autoplay&quot;:&quot;yes&quot;,&quot;autoplay_speed&quot;:5000,&quot;pause_on_hover&quot;:&quot;yes&quot;,&quot;pause_on_interaction&quot;:&quot;yes&quot;,&quot;infinite&quot;:&quot;yes&quot;,&quot;speed&quot;:500,&quot;offset_sides&quot;:&quot;none&quot;,&quot;arrows&quot;:&quot;yes&quot;,&quot;image_spacing_custom_tablet&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;image_spacing_custom_mobile&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]}}" data-widget_type="nested-carousel.default">
+				<div class="elementor-widget-container">
+							<div class="e-n-carousel swiper swiper-initialized swiper-horizontal swiper-pointer-events" role="region" aria-roledescription="carousel" aria-label="Carousel" dir="ltr">
+			<div class="swiper-wrapper" aria-live="off" style="transition-duration: 0ms; transform: translate3d(-1852px, 0px, 0px);" id="swiper-wrapper-d2b95e388a6aea7c"><div class="swiper-slide swiper-slide-duplicate" data-slide="9" role="group" aria-roledescription="slide" aria-label="9 / 9" data-swiper-slide-index="8" style="width: 926px;" aria-hidden="true" inert="">
+							<div class="has_eae_slider elementor-element elementor-element-3f6d998 e-con-full e-flex e-con e-child" data-eae-slider="69480" data-id="3f6d998" data-element_type="container">
+		<div class="has_eae_slider elementor-element elementor-element-8556c3c e-con-fu

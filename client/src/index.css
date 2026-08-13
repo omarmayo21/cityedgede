@@ -1,0 +1,153 @@
+@import "tailwindcss";
+
+@theme {
+  --color-primary: #a68543;
+  --color-secondary: #00263D;
+  --font-sans: "AeonikTRIAL", "Roboto", sans-serif;
+}
+
+@font-face {
+  font-family: 'AeonikTRIAL';
+  font-style: normal;
+  font-weight: 300;
+  src: url('/fonts/AeonikTRIAL-Light.otf') format('opentype');
+}
+@font-face {
+  font-family: 'AeonikTRIAL';
+  font-style: normal;
+  font-weight: 400;
+  src: url('/fonts/AeonikTRIAL-Regular.otf') format('opentype');
+}
+@font-face {
+  font-family: 'AeonikTRIAL';
+  font-style: normal;
+  font-weight: 700;
+  src: url('/fonts/AeonikTRIAL-Bold.otf') format('opentype');
+}
+
+body {
+  /* Do NOT set color or background-color here — Elementor CSS handles these via
+     --e-global-color-* CSS variables and its own cascade.
+     Only set font-smoothing here which Elementor doesn't manage. */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.contact-form-modal-backdrop {
+  position: fixed;
+  inset: 0;
+  z-index: 2147483646;
+  display: grid;
+  place-items: center;
+  padding: 20px;
+  background: rgba(0, 38, 61, .58);
+  overflow-y: auto;
+}
+.contact-form-modal { position: relative; width: min(900px, calc(100vw - 40px)); max-height: calc(100vh - 56px); overflow: visible; background: #fff; }
+.contact-form-modal .contact-form-outer { padding: 0; }
+.contact-form-modal .contact-form-card { max-width: none; min-height: 600px; padding: 54px 60px 50px; box-shadow: none; }
+.contact-form-modal-close { position: absolute;justify-content: center; display: flex;align-items: center; z-index: 2; top: 15px; right: 15px; width: 50px; height: 51px; border: 2px solid #A68543; border-radius: 50%; background: #fff; color: #000; font-family: Arial, sans-serif; font-size: 31px; font-weight: 300; line-height: 35px; cursor: pointer; box-shadow: 0 3px 12px rgba(0,0,0,.18); }
+.phone-country-selector { display: flex; align-items: center; justify-content: space-between; width: 106px; height: 42px; padding: 0 8px 0 0; border: 0; border-right: 1px solid #ddd; outline: 0; color: #666; background: transparent; font-family: "AeonikTRIAL", sans-serif; font-size: 14px; cursor: pointer; white-space: nowrap; }
+.phone-country-chevron { margin-left: 5px; color: #A68543; font-size: 18px; line-height: 1; transform: translateY(-2px); }
+.phone-country-prefix { position: relative; padding-right: 0 !important; }
+.phone-country-prefix > span { display: none; }
+.phone-country-dropdown { position: absolute; z-index: 20; top: calc(100% + 5px); left: 0; width: min(300px, calc(100vw - 64px)); box-sizing: border-box; padding: 10px; background: #fff; border: 1px solid #ddd; box-shadow: 0 10px 24px rgba(0,0,0,.16); overflow-x: hidden; }
+.phone-country-dropdown input { width: 100%; min-width: 0; box-sizing: border-box; padding: 10px; border: 1px solid #A68543; font: inherit; }
+.phone-country-options { max-height: 220px; margin-top: 8px; overflow-x: hidden; overflow-y: auto; }
+.phone-country-options button { display: flex; align-items: center; gap: 8px; width: 100%; min-width: 0; box-sizing: border-box; padding: 9px 6px; border: 0; background: #fff; color: #00263D; font: inherit; text-align: left; cursor: pointer; overflow: hidden; }
+.phone-country-options button span { min-width: 0; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+.phone-country-options button:hover { background: #f7f4ed; }
+.phone-country-options small { flex: 0 0 auto; margin-left: auto; color: #666; }
+@media (max-width: 768px) {
+  .contact-form-modal-backdrop { align-items: start; padding: 28px 16px; }
+  .contact-form-modal { width: 100%; max-height: calc(100vh - 56px); overflow-y: auto; }
+  .contact-form-modal .contact-form-card { min-height: 0; padding: 42px 24px 36px !important; }
+  .contact-form-modal-close { top: 10px; right: 10px; width: 34px; height: 35px; font-size: 26px; line-height: 27px; }
+  .phone-country-selector { width: 102px; font-size: 13px; }
+}
+
+/* A short intentional white wash for SPA content swaps.  It is independent of
+   the preloader and never changes body/content visibility. */
+.cityedge-page-transition {
+  position: fixed;
+  inset: 0;
+  z-index: 2147483647;
+  pointer-events: none;
+  background: #fff;
+  opacity: 0;
+  visibility: hidden;
+  transition: opacity 140ms ease-out, visibility 0s linear 140ms;
+}
+
+.cityedge-page-transition.is-visible {
+  opacity: 1;
+  visibility: visible;
+  transition: opacity 55ms ease-in;
+}
+
+html.cityedge-is-transitioning .cityedge-page-transition {
+  opacity: 1;
+  visibility: visible;
+  transition: opacity 55ms ease-in;
+}
+
+/* Filter and destination-tab changes deliberately wash only the project
+   container. This never affects the document, header, or location hero. */
+.cityedge-content-flash {
+  position: absolute;
+  inset: 0;
+  z-index: 100000;
+  pointer-events: none;
+  background: #fff;
+  opacity: 0;
+  transition: opacity 170ms ease-out;
+}
+
+.cityedge-content-flash.is-visible {
+  opacity: 1;
+  transition: opacity 45ms ease-in;
+}
+
+/* Keep the scraped Image Map Pro canvas proportional on phones rather than
+   allowing its original desktop pixel dimensions to overflow the viewport. */
+@media (max-width: 767px) {
+  div[id^="image-map-pro-"] .imp-container,
+  div[id^="image-map-pro-"] .imp-canvas-wrap,
+  div[id^="image-map-pro-"] .imp-canvas,
+  div[id^="image-map-pro-"] .imp-translate,
+  div[id^="image-map-pro-"] .imp-scale {
+    width: 100% !important;
+    max-width: 100% !important;
+  }
+
+  div[id^="image-map-pro-"] .imp-canvas {
+    height: auto !important;
+    aspect-ratio: 1.766 / 1;
+  }
+
+  div[id^="image-map-pro-"] .imp-image {
+    display: block;
+    width: 100% !important;
+    height: auto !important;
+  }
+}
+
+/* Image Map Pro's original hover affordance, retained even before a page's
+   deferred map script has finished binding its enhanced state. */
+div[id^="image-map-pro-"] .imp-object {
+  cursor: pointer;
+}
+
+div[id^="image-map-pro-"] .imp-object-oval:hover,
+div[id^="image-map-pro-"] .imp-object-oval:focus-visible {
+  background: rgba(170, 121, 66, 0.3) !important;
+}
+
+div[id^="image-map-pro-"] .imp-object-spot:hover,
+div[id^="image-map-pro-"] .imp-object-spot:focus-visible {
+  fill: #aa7942 !important;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .cityedge-page-transition { transition: none; }
+}

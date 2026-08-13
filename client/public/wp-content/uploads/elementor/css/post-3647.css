@@ -1,0 +1,24 @@
+.elementor-3647 .elementor-element.elementor-element-516c22d{--display:flex;--padding-top:0px;--padding-bottom:16px;--padding-left:0px;--padding-right:0px;}.elementor-3647 .elementor-element.elementor-element-cc9a371{--e-image-carousel-slides-to-show:1;}.elementor-3647 .elementor-element.elementor-element-cc9a371 .elementor-swiper-button.elementor-swiper-button-prev, .elementor-3647 .elementor-element.elementor-element-cc9a371 .elementor-swiper-button.elementor-swiper-button-next{color:var( --e-global-color-ee227db );}.elementor-3647 .elementor-element.elementor-element-cc9a371 .elementor-swiper-button.elementor-swiper-button-prev svg, .elementor-3647 .elementor-element.elementor-element-cc9a371 .elementor-swiper-button.elementor-swiper-button-next svg{fill:var( --e-global-color-ee227db );}.elementor-3647 .elementor-element.elementor-element-ec3cfb9 .elementor-wrapper{--video-aspect-ratio:1.77777;}@media(min-width:768px){.elementor-3647 .elementor-element.elementor-element-516c22d{--width:100%;}}/* Start custom CSS for image-carousel, class: .elementor-element-cc9a371 */.elementor-3647 .elementor-element.elementor-element-cc9a371 img{
+    height: 400px!important;
+    object-fit: contain;
+}
+@media screen and (max-width: 768px){
+    .elementor-3647 .elementor-element.elementor-element-cc9a371 img{
+    height: 300px!important;
+    object-fit:contain;
+}
+}
+.elementor-3647 .elementor-element.elementor-element-cc9a371 .elementor-swiper-button svg{
+    background-color: #00263D!important;
+    
+}
+.elementor-3647 .elementor-element.elementor-element-cc9a371 .elementor-swiper-button{
+    background-color: #00263D;
+padding: 5px;
+border-radius: 50px;
+z-index: 999999;
+}
+
+.elementor-3647 .elementor-element.elementor-element-cc9a371 .swiper-pagination{
+    bottom: -16px!important;
+}/* End custom CSS */

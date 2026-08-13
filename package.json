@@ -1,0 +1,25 @@
+{
+  "name": "cityedge-app",
+  "version": "1.0.0",
+  "private": true,
+  "workspaces": [
+    "client",
+    "server",
+    "shared",
+    "db",
+    "scripts"
+  ],
+  "scripts": {
+    "dev": "concurrently \"npm run dev -w client\" \"npm run dev -w server\"",
+    "build": "npm run build -w client && npm run build -w server",
+    "scrape": "npm run start -w scripts",
+    "db:push": "npm run db:push -w db"
+  },
+  "devDependencies": {
+    "concurrently": "^8.2.2",
+    "puppeteer": "^25.6.0"
+  },
+  "dependencies": {
+    "puppeteer-core": "^25.6.0"
+  }
+}

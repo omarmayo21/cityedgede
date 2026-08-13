@@ -1,0 +1,27 @@
+.elementor-5785 .elementor-element.elementor-element-a46114c{--display:flex;--padding-top:8px;--padding-bottom:10px;--padding-left:0px;--padding-right:0px;}.elementor-widget-image .widget-image-caption{color:var( --e-global-color-text );font-family:var( --e-global-typography-text-font-family ), Sans-serif;font-weight:var( --e-global-typography-text-font-weight );}.elementor-5785 .elementor-element.elementor-element-45c9c1a img{width:100%;height:250px;object-fit:cover;object-position:center center;}.elementor-5785 .elementor-element.elementor-element-783b839 .elementor-wrapper{--video-aspect-ratio:1.77777;}.elementor-widget-text-editor{font-family:var( --e-global-typography-text-font-family ), Sans-serif;font-weight:var( --e-global-typography-text-font-weight );color:var( --e-global-color-text );}.elementor-widget-text-editor.elementor-drop-cap-view-stacked .elementor-drop-cap{background-color:var( --e-global-color-primary );}.elementor-widget-text-editor.elementor-drop-cap-view-framed .elementor-drop-cap, .elementor-widget-text-editor.elementor-drop-cap-view-default .elementor-drop-cap{color:var( --e-global-color-primary );border-color:var( --e-global-color-primary );}.elementor-5785 .elementor-element.elementor-element-8578bc7.elementor-element{--align-self:center;}.elementor-5785 .elementor-element.elementor-element-8578bc7{text-align:center;font-family:"AeonikTRIAL", Sans-serif;font-weight:400;}@media(max-width:767px){.elementor-5785 .elementor-element.elementor-element-8578bc7{width:var( --container-widget-width, 100% );max-width:100%;--container-widget-width:100%;--container-widget-flex-grow:0;font-size:12px;}}@media(min-width:768px){.elementor-5785 .elementor-element.elementor-element-a46114c{--width:100%;}}/* Start custom CSS for text-editor, class: .elementor-element-8578bc7 *//* Custom CSS to control the Elementor Text Editor Widget direction */
+
+/* When the ACF field value is 'arabic' */
+.elementor-widget-text-editor.language-arabic .elementor-widget-container {
+    direction: rtl;
+    
+}
+
+/* When the ACF field value is 'english' (or default/fallback) */
+/* This is optional, as LTR is usually the default, but it ensures consistency */
+.elementor-widget-text-editor.language-english .elementor-widget-container {
+    direction: ltr;
+   
+}
+
+/* IMPORTANT: Target the actual text content inside the editor */
+.elementor-widget-text-editor.language-arabic .elementor-widget-container p,
+.elementor-widget-text-editor.language-arabic .elementor-widget-container div {
+    direction: rtl;
+    
+}
+
+.elementor-widget-text-editor.language-english .elementor-widget-container p,
+.elementor-widget-text-editor.language-english .elementor-widget-container div {
+    direction: ltr;
+    
+}/* End custom CSS */

@@ -1,0 +1,8 @@
+jQuery(document).ready(function($){function strictValidate(input){var $input=$(input);var inputVal=$.trim($input.val());var check_field=$input.closest(".elementor-field-type-telephone").find(".phone_check");if(inputVal.indexOf("+")!==-1){invalidateField($input,check_field);return}
+if(!$input.data("intlTelInput")){return}
+if(!$input.intlTelInput("isValidNumber")){invalidateField($input,check_field);return}
+try{var nationalFormat=$input.intlTelInput("getNumber",intlTelInputUtils.numberFormat.NATIONAL);var cleanInput=inputVal.replace(/\D/g,"");var cleanNational=nationalFormat.replace(/\D/g,"");if(cleanInput!==cleanNational){invalidateField($input,check_field);return}}catch(e){console.error("Validation Error:",e);if(!$input.intlTelInput("isValidNumber")){invalidateField($input,check_field);return}}
+markValidField($input,check_field)}
+function invalidateField($input,check_field){check_field.attr("value","no");check_field.val("no");$input.addClass("wpcf7-not-valid-red").removeClass("wpcf7-not-valid-blue").removeClass("wpcf7-not-valid")}
+function markValidField($input,check_field){check_field.attr("value","yes");check_field.val("yes");$input.addClass("wpcf7-not-valid-blue").removeClass("wpcf7-not-valid-red").removeClass("wpcf7-not-valid")}
+$("body").on("keyup change blur",".elementor-field-telephone",function(){strictValidate(this)});setTimeout(function(){$(".elementor-field-telephone").each(function(){strictValidate(this)})},1000)})
