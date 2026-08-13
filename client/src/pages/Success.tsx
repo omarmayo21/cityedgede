@@ -1,6 +1,31 @@
-import { Link } from 'react-router-dom';
+import { useEffect, useRef } from 'react';
+import { Link, useLocation, useNavigate } from 'react-router-dom';
 
 export default function Success() {
+  const location = useLocation();
+  const navigate = useNavigate();
+  const hasFired = useRef(false);
+
+  useEffect(() => {
+    // Only fire conversion if we arrived via a successful form submission
+    if (location.state?.fromFormSubmission && !hasFired.current) {
+      hasFired.current = true;
+      
+      if (window.gtag) {
+        const adsId = import.meta.env.VITE_GOOGLE_ADS_CONVERSION_ID || import.meta.env.VITE_GOOGLE_ADS_ID;
+        const adsLabel = import.meta.env.VITE_GOOGLE_ADS_CONVERSION_LABEL;
+        if (adsId && adsLabel) {
+          const formattedId = adsId.startsWith('AW-') ? adsId : `AW-${adsId}`;
+          window.gtag('event', 'conversion', {
+            'send_to': `${formattedId}/${adsLabel}`
+          });
+        }
+      }
+
+      // Clear the state so a page refresh doesn't trigger a duplicate conversion
+      navigate(location.pathname, { replace: true, state: {} });
+    }
+  }, [location, navigate]);
   return (
     <main id="content" className="site-main" style={{ display: 'flex', flexDirection: 'column', alignItems: 'center', justifyContent: 'center', minHeight: '60vh', padding: '2rem', textAlign: 'center', fontFamily: '"AeonikTRIAL", "Roboto", sans-serif', backgroundColor: '#f9f9f9' }}>
       <div style={{ maxWidth: '600px', backgroundColor: '#fff', padding: '3rem', borderRadius: '8px', boxShadow: '0 4px 15px rgba(0,0,0,0.05)' }}>
