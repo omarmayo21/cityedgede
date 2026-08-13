@@ -3,8 +3,13 @@ import cors from 'cors';
 import dotenv from 'dotenv';
 import path from 'path';
 
-// Load env vars
-dotenv.config({ path: path.resolve(__dirname, '../../db/.env') });
+import fs from 'fs';
+
+// Load env vars if file exists
+const envPath = path.resolve(__dirname, '../../db/.env');
+if (fs.existsSync(envPath)) {
+  dotenv.config({ path: envPath });
+}
 
 import projectsRouter from './routes/projects';
 import pagesRouter from './routes/pages';
@@ -25,6 +30,10 @@ app.get('/api/health', (req, res) => {
   res.json({ status: 'ok' });
 });
 
-app.listen(port, () => {
-  console.log(`Server running on port ${port}`);
-});
+if (process.env.NODE_ENV !== 'production' && !process.env.VERCEL) {
+  app.listen(port, () => {
+    console.log(`Server running on port ${port}`);
+  });
+}
+
+export default app;
