@@ -70,10 +70,10 @@ Submission received from the City Edge website.
     const sheets = google.sheets({ version: 'v4', auth });
     const spreadsheetId = process.env.GOOGLE_SHEET_ID;
 
-    // Define row format matching validatedData
+    // Define row format exactly as requested:
+    // name | email | phone | country | Inquiry Type | Destination | Project | Source Page | Timestamp | message
     const timestamp = new Date().toISOString();
     const row = [
-      timestamp,
       validatedData.name || '',
       validatedData.email || '',
       validatedData.phone || '',
@@ -81,8 +81,9 @@ Submission received from the City Edge website.
       validatedData.inquiryType || '',
       validatedData.destination || '',
       validatedData.project || '',
-      validatedData.message || '',
-      validatedData.sourcePage || ''
+      validatedData.sourcePage || '',
+      timestamp,
+      validatedData.message || ''
     ];
 
     await sheets.spreadsheets.values.append({
