@@ -94,6 +94,8 @@ import { useMainProjectFilter } from './hooks/useMainProjectFilter';
 import { useImageMapInteractions } from './hooks/useImageMapInteractions';
 import PageTransition from './components/PageTransition';
 import ProjectPageContentAdjustments from './components/ProjectPageContentAdjustments';
+import { useGoogleAnalytics } from './hooks/useGoogleAnalytics';
+import Success from './pages/Success';
 
 function App() {
   const [isContactModalOpen, setIsContactModalOpen] = useState(false);
@@ -104,6 +106,7 @@ function App() {
   useLocationFilter();
   useMainProjectFilter();
   useImageMapInteractions();
+  useGoogleAnalytics();
 
   const location = useLocation();
 
@@ -111,6 +114,7 @@ function App() {
   // Critical: theme.min.css rule `body:not([class*="elementor-page-"]) .site-main { max-width:1140px }`
   // requires the body to have class="elementor-page-{id}" for full-width Elementor layout.
   useEffect(() => {
+    setIsContactModalOpen(false);
     let routeClasses = ROUTE_BODY_CLASSES[location.pathname] || '';
 
     if (location.pathname.startsWith('/project/')) {
@@ -144,6 +148,7 @@ function App() {
       <Suspense fallback={<div className="preloader-plus complete">Loading...</div>}>
       <Routes>
         <Route path="/" element={<Home />} />
+        <Route path="/success" element={<Success />} />
         <Route path="/about-us" element={<AboutUs />} />
         <Route path="/virtual-tour" element={<VirtualTour />} />
         <Route path="/project/almaqsad-park" element={<ProjectAlmaqsadPark />} />

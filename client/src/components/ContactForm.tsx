@@ -1,4 +1,5 @@
 import { useMemo, useState } from 'react';
+import { useNavigate } from 'react-router-dom';
 import { codes as callingCodes, type ICountryCodeItem } from 'country-calling-code';
 
 const DESTINATIONS = [
@@ -38,6 +39,7 @@ const PROJECTS_BY_DESTINATION: Record<string, string[]> = {
 };
 
 export default function ContactForm({ onSuccess }: { onSuccess?: () => void }) {
+  const navigate = useNavigate();
   const [formData, setFormData] = useState({
     name: '',
     email: '',
@@ -77,6 +79,7 @@ export default function ContactForm({ onSuccess }: { onSuccess?: () => void }) {
       setSuccess(true);
       setFormData({ name: '', email: '', phone: '', message: '', inquiryType: '', country: 'Egypt', destination: '', project: '' });
       onSuccess?.();
+      navigate('/success');
     } catch (err) {
       setError('An error occurred. Please try again.');
     } finally {
