@@ -13,12 +13,16 @@ export const useGoogleAnalytics = () => {
 
   useEffect(() => {
     const measurementId = import.meta.env.VITE_GA_MEASUREMENT_ID;
-    if (!measurementId) return;
+    const adsId = import.meta.env.VITE_GOOGLE_ADS_ID;
+    
+    // We need at least one tracking ID to load gtag
+    if (!measurementId && !adsId) return;
 
     if (!window.gtag) {
       const script = document.createElement('script');
       script.id = 'ga-script';
-      script.src = `https://www.googletagmanager.com/gtag/js?id=${measurementId}`;
+      // Load gtag using either GA4 ID or Google Ads ID
+      script.src = `https://www.googletagmanager.com/gtag/js?id=${measurementId || adsId}`;
       script.async = true;
       document.head.appendChild(script);
 
@@ -31,9 +35,16 @@ export const useGoogleAnalytics = () => {
       window.gtag('js', new Date());
     }
 
-    // Send pageview on route change (including initial mount)
-    window.gtag('config', measurementId, {
-      page_path: location.pathname + location.search,
-    });
+    // Configure GA4
+    if (measurementId) {
+      window.gtag('config', measurementId, {
+        page_path: location.pathname + location.search,
+      });
+    }
+
+    // Configure Google Ads Base Tag
+    if (adsId) {
+      window.gtag('config', adsId);
+    }
   }, [location.pathname, location.search]);
 };

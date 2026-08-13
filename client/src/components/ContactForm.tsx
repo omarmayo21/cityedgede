@@ -81,6 +81,19 @@ export default function ContactForm({ onSuccess }: { onSuccess?: () => void }) {
       
       if (!res.ok && res.status !== 404) throw new Error('Submission failed');
       
+      // Fire Google Ads conversion tracking
+      if (window.gtag) {
+        const adsId = import.meta.env.VITE_GOOGLE_ADS_CONVERSION_ID || import.meta.env.VITE_GOOGLE_ADS_ID;
+        const adsLabel = import.meta.env.VITE_GOOGLE_ADS_CONVERSION_LABEL;
+        if (adsId && adsLabel) {
+          // ensure the prefix matches standard Google Ads AW- prefix
+          const formattedId = adsId.startsWith('AW-') ? adsId : `AW-${adsId}`;
+          window.gtag('event', 'conversion', {
+            'send_to': `${formattedId}/${adsLabel}`
+          });
+        }
+      }
+
       setSuccess(true);
       setFormData({ name: '', email: '', phone: '', message: '', inquiryType: '', country: 'Egypt', destination: '', project: '' });
       onSuccess?.();
