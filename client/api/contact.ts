@@ -1,5 +1,4 @@
 import type { VercelRequest, VercelResponse } from '@vercel/node';
-import cors from 'cors';
 import { z } from 'zod';
 import { drizzle } from 'drizzle-orm/postgres-js';
 import postgres from 'postgres';
@@ -32,27 +31,8 @@ const contactSubmissions = pgTable('contact_submissions', {
 const queryClient = postgres(process.env.DATABASE_URL!);
 const db = drizzle(queryClient);
 
-// --- 4. CORS Middleware ---
-function runMiddleware(req: VercelRequest, res: VercelResponse, fn: Function) {
-  return new Promise((resolve, reject) => {
-    fn(req, res, (result: any) => {
-      if (result instanceof Error) {
-        return reject(result);
-      }
-      return resolve(result);
-    });
-  });
-}
-const corsMiddleware = cors({ methods: ['POST', 'OPTIONS'] });
-
-// --- 5. Main Handler ---
+// --- 4. Main Handler ---
 export default async function handler(req: VercelRequest, res: VercelResponse) {
-  await runMiddleware(req, res, corsMiddleware);
-
-  if (req.method === 'OPTIONS') {
-    return res.status(200).end();
-  }
-
   if (req.method !== 'POST') {
     return res.status(405).json({ error: 'Method Not Allowed' });
   }
