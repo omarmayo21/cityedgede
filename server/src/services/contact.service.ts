@@ -1,5 +1,6 @@
 import { contactSchema } from '../validators/contact';
 import nodemailer from 'nodemailer';
+import { google } from 'googleapis';
 
 export async function processContactSubmission(body: any) {
   const validatedData = contactSchema.parse(body);
@@ -54,6 +55,47 @@ Submission received from the City Edge website.
     text: plainTextContent.trim(),
     html: htmlContent,
   });
+
+  // 2. Append to Google Sheets
+  if (process.env.GOOGLE_SERVICE_ACCOUNT_EMAIL && process.env.GOOGLE_PRIVATE_KEY && process.env.GOOGLE_SHEET_ID) {
+    const privateKey = process.env.GOOGLE_PRIVATE_KEY.replace(/\\n/g, '\n');
+    const auth = new google.auth.GoogleAuth({
+      credentials: {
+        client_email: process.env.GOOGLE_SERVICE_ACCOUNT_EMAIL,
+        private_key: privateKey,
+      },
+      scopes: ['https://www.googleapis.com/auth/spreadsheets'],
+    });
+
+    const sheets = google.sheets({ version: 'v4', auth });
+    const spreadsheetId = process.env.GOOGLE_SHEET_ID;
+
+    // Define row format matching validatedData
+    const timestamp = new Date().toISOString();
+    const row = [
+      timestamp,
+      validatedData.name || '',
+      validatedData.email || '',
+      validatedData.phone || '',
+      validatedData.country || '',
+      validatedData.inquiryType || '',
+      validatedData.destination || '',
+      validatedData.project || '',
+      validatedData.message || '',
+      validatedData.sourcePage || ''
+    ];
+
+    await sheets.spreadsheets.values.append({
+      spreadsheetId,
+      range: 'Sheet1!A:J',
+      valueInputOption: 'USER_ENTERED',
+      requestBody: {
+        values: [row],
+      },
+    });
+  } else {
+    console.warn('Google Sheets environment variables missing. Skipping sheets integration.');
+  }
 
   return { message: 'Submission successful' };
 }

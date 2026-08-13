@@ -1,6 +1,7 @@
 import type { VercelRequest, VercelResponse } from '@vercel/node';
 import { z } from 'zod';
 import nodemailer from 'nodemailer';
+import { google } from 'googleapis';
 
 // --- 1. Zod Schema ---
 const contactSchema = z.object({
@@ -9,6 +10,9 @@ const contactSchema = z.object({
   phone: z.string().optional(),
   country: z.string().min(1, 'Country is required'),
   message: z.string().optional(),
+  inquiryType: z.string().optional(),
+  destination: z.string().optional(),
+  project: z.string().optional(),
   sourcePage: z.string().optional(),
 });
 
@@ -21,7 +25,7 @@ export default async function handler(req: VercelRequest, res: VercelResponse) {
   try {
     const validatedData = contactSchema.parse(req.body);
 
-    // Send Email
+    // 1. Send Email
     const transporter = nodemailer.createTransport({
       host: process.env.SMTP_HOST || 'smtp.gmail.com',
       port: parseInt(process.env.SMTP_PORT || '587', 10),
@@ -72,12 +76,53 @@ Submission received from the City Edge website.
       html: htmlContent,
     });
 
+    // 2. Append to Google Sheets
+    if (process.env.GOOGLE_SERVICE_ACCOUNT_EMAIL && process.env.GOOGLE_PRIVATE_KEY && process.env.GOOGLE_SHEET_ID) {
+      const privateKey = process.env.GOOGLE_PRIVATE_KEY.replace(/\\n/g, '\n');
+      const auth = new google.auth.GoogleAuth({
+        credentials: {
+          client_email: process.env.GOOGLE_SERVICE_ACCOUNT_EMAIL,
+          private_key: privateKey,
+        },
+        scopes: ['https://www.googleapis.com/auth/spreadsheets'],
+      });
+
+      const sheets = google.sheets({ version: 'v4', auth });
+      const spreadsheetId = process.env.GOOGLE_SHEET_ID;
+
+      // Define row format matching validatedData
+      const timestamp = new Date().toISOString();
+      const row = [
+        timestamp,
+        validatedData.name || '',
+        validatedData.email || '',
+        validatedData.phone || '',
+        validatedData.country || '',
+        validatedData.inquiryType || '',
+        validatedData.destination || '',
+        validatedData.project || '',
+        validatedData.message || '',
+        validatedData.sourcePage || ''
+      ];
+
+      await sheets.spreadsheets.values.append({
+        spreadsheetId,
+        range: 'Sheet1!A:J',
+        valueInputOption: 'USER_ENTERED',
+        requestBody: {
+          values: [row],
+        },
+      });
+    } else {
+      console.warn('Google Sheets environment variables missing. Skipping sheets integration.');
+    }
+
     return res.status(201).json({ message: 'Submission successful' });
   } catch (error: any) {
     if (error.name === 'ZodError') {
       return res.status(400).json({ errors: error.errors });
     }
-    console.error('Contact submission error:', error);
+    console.error('Contact submission error:', error.message || error);
     return res.status(500).json({ error: 'Failed to process submission' });
   }
 }

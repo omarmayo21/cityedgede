@@ -6,5 +6,8 @@ export const contactSchema = z.object({
   phone: z.string().optional(),
   country: z.string().min(1, 'Country is required'),
   message: z.string().optional(),
+  inquiryType: z.string().optional(),
+  destination: z.string().optional(),
+  project: z.string().optional(),
   sourcePage: z.string().optional(),
 });

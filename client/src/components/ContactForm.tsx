@@ -68,10 +68,15 @@ export default function ContactForm({ onSuccess }: { onSuccess?: () => void }) {
     setSuccess(false);
 
     try {
+      const payload = {
+        ...formData,
+        sourcePage: window.location.href,
+      };
+
       const res = await fetch('/api/contact', {
         method: 'POST',
         headers: { 'Content-Type': 'application/json' },
-        body: JSON.stringify(formData)
+        body: JSON.stringify(payload)
       });
       
       if (!res.ok && res.status !== 404) throw new Error('Submission failed');
