@@ -6,13 +6,11 @@ import path from 'path';
 import fs from 'fs';
 
 // Load env vars if file exists
-const envPath = path.resolve(__dirname, '../../db/.env');
+const envPath = path.resolve(__dirname, '../../client/.env');
 if (fs.existsSync(envPath)) {
   dotenv.config({ path: envPath });
 }
 
-import projectsRouter from './routes/projects';
-import pagesRouter from './routes/pages';
 import contactRouter from './routes/contact';
 
 const app = express();
@@ -22,8 +20,6 @@ app.use(cors());
 app.use(express.json());
 
 // Routes
-app.use('/api/projects', projectsRouter);
-app.use('/api/pages', pagesRouter);
 app.use('/api/contact', contactRouter);
 
 app.get('/api/health', (req, res) => {

@@ -1,6 +1,4 @@
 import { Router } from 'express';
-import { db } from '../../../db/src/index';
-import { contactSubmissions } from '../../../db/schema';
 import { contactSchema } from '../validators/contact';
 import nodemailer from 'nodemailer';
 import { processContactSubmission } from '../services/contact.service';

@@ -6,14 +6,12 @@
     "client",
     "server",
     "shared",
-    "db",
     "scripts"
   ],
   "scripts": {
     "dev": "concurrently \"npm run dev -w client\" \"npm run dev -w server\"",
-    "build": "npm run build -w client && npm run build -w server",
-    "scrape": "npm run start -w scripts",
-    "db:push": "npm run db:push -w db"
+    "build": "npm run build -w client",
+    "scrape": "npm run start -w scripts"
   },
   "devDependencies": {
     "@vercel/node": "^5.9.9",
